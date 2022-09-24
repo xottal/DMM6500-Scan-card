@@ -1,0 +1,21 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [DMM6500 Scan card.PcbDoc]
+   Generated File[DMM6500 Scan card.GTO]
+   Generated File[DMM6500 Scan card.GTP]
+   Generated File[DMM6500 Scan card.GTS]
+   Generated File[DMM6500 Scan card.GTL]
+   Generated File[DMM6500 Scan card.GBL]
+   Generated File[DMM6500 Scan card.GBS]
+   Generated File[DMM6500 Scan card.GBP]
+   Generated File[DMM6500 Scan card.GBO]
+   Generated File[DMM6500 Scan card.GKO]
+   Generated File[DMM6500 Scan card.RUL]
+   Generated File[DMM6500 Scan card.EXTREP]
+   Generated File[DMM6500 Scan card.REP]
+
+
+Files Generated   : 12
+Documents Printed : 0
+
+Finished Output Generation At 22:43:29 On 24.09.2022

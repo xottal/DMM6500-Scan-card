@@ -1,0 +1,3189 @@
+﻿[Design]
+Version=1.0
+HierarchyMode=0
+ChannelRoomNamingStyle=0
+ReleasesFolder=
+ChannelDesignatorFormatString=$Component_$RoomName
+ChannelRoomLevelSeperator=_
+OpenOutputs=1
+ArchiveProject=0
+TimestampOutput=0
+SeparateFolders=0
+TemplateLocationPath=
+PinSwapBy_Netlabel=1
+PinSwapBy_Pin=1
+AllowPortNetNames=0
+AllowSheetEntryNetNames=1
+AppendSheetNumberToLocalNets=0
+NetlistSinglePinNets=0
+DefaultConfiguration=Sources
+UserID=0xFFFFFFFF
+DefaultPcbProtel=1
+DefaultPcbPcad=0
+ReorderDocumentsOnCompile=1
+NameNetsHierarchically=0
+PowerPortNamesTakePriority=0
+AutoSheetNumbering=1
+AutoCrossReferences=0
+NewIndexingOfSheetSymbols=1
+PushECOToAnnotationFile=1
+DItemRevisionGUID=
+ReportSuppressedErrorsInMessages=0
+FSMCodingStyle=eFMSDropDownList_OneProcess
+FSMEncodingStyle=eFMSDropDownList_OneHot
+IsProjectConflictPreventionWarningsEnabled=0
+IsVirtualBomDocumentRemoved=1
+OutputPath=Project Outputs for DMM6500 Scan card
+LogFolderPath=
+ManagedProjectGUID=
+IncludeDesignInRelease=0
+CrossRefSheetStyle=1
+CrossRefLocationStyle=1
+CrossRefPorts=3
+CrossRefCrossSheets=1
+CrossRefSheetEntries=0
+CrossRefFollowFromMainSettings=1
+CurrentVariant=2000-SCAN/2001-TCSCAN
+
+[Preferences]
+PrefsVaultGUID=
+PrefsRevisionGUID=
+
+[Document1]
+DocumentPath=PCB1.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=RPRJWMEY
+
+[Document2]
+DocumentPath=DMM6500 Scan card.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document3]
+DocumentPath=CAMtastic1.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MOEACUMF
+
+[Document4]
+DocumentPath=Scan card MCU&Power.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=0
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GEYJKKNZ
+
+[Document5]
+DocumentPath=Scan card SSR.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=JQXSVIWU
+
+[Document6]
+DocumentPath=DMM6500 Scan card.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=AVYGBDCM
+
+[ProjectVariant1]
+UniqueID=0D053B96-9699-4340-9B18-7E135C871A4A
+Description=2000-SCAN-20
+AllowFabrication=0
+ParameterCount=1
+VariationCount=1
+Variation1=Designator=R56|UniqueId=\XQNFVLCB|Kind=1|AlternatePart= 
+ParamVariationCount=0
+
+[Parameter2_1]
+Name=Variant
+Value=2000-SCAN-20
+
+[ProjectVariant2]
+UniqueID=39B7F07D-0C7A-442C-949A-2D53E19AB022
+Description=2000-SCAN/2001-TCSCAN
+AllowFabrication=0
+ParameterCount=1
+VariationCount=45
+Variation1=Designator=R52|UniqueId=\VCZBKYPT|Kind=1|AlternatePart= 
+Variation2=Designator=U5|UniqueId=\SMYXHAYK|Kind=2|AlternatePart=VOR1142M4|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\xottal\YandexDisk\Altium projects\Libraries\My_Database_Lib.DbLib/SSR$|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=VOR1142M4|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=My_Database_Lib.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=SSR$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SOP254P700X232-4N|AltLibLink_IsSameFootprint=False
+ParamVariation1=ParameterName=Comment|VariantValue=VOR1142M4
+ParamDesignator1=U5
+ParamVariation2=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator2=U5
+ParamVariation3=ParameterName=Current|VariantValue=140mA
+ParamDesignator3=U5
+ParamVariation4=ParameterName=Database Table Name|VariantValue=SSR$
+ParamDesignator4=U5
+ParamVariation5=ParameterName=Description|VariantValue=Relay Ssr 2MA 1.5V Dc-in 0.14A 400V Dc-out 4-PIN DIP SMD T/r
+ParamDesignator5=U5
+ParamVariation6=ParameterName=Designator|VariantValue=U?
+ParamDesignator6=U5
+ParamVariation7=ParameterName=Footprint|VariantValue=SOP254P700X232-4N
+ParamDesignator7=U5
+ParamVariation8=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator8=U5
+ParamVariation9=ParameterName=Library Reference|VariantValue=VOR1142M4
+ParamDesignator9=U5
+ParamVariation10=ParameterName=Manufacturer|VariantValue=Vishay
+ParamDesignator10=U5
+ParamVariation11=ParameterName=On-State Resistance|VariantValue=27R
+ParamDesignator11=U5
+ParamVariation12=ParameterName=Package|VariantValue=SOP-4
+ParamDesignator12=U5
+ParamVariation13=ParameterName=Part Number|VariantValue=VOR1142M4
+ParamDesignator13=U5
+ParamVariation14=ParameterName=PCB3D|VariantValue= 
+ParamDesignator14=U5
+ParamVariation15=ParameterName=Pin Info|VariantValue= 
+ParamDesignator15=U5
+ParamVariation16=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator16=U5
+ParamVariation17=ParameterName=Simulation|VariantValue= 
+ParamDesignator17=U5
+ParamVariation18=ParameterName=Voltage|VariantValue=400V
+ParamDesignator18=U5
+Variation3=Designator=U3|UniqueId=\GADGBMOU|Kind=2|AlternatePart=VOR1142M4|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\xottal\YandexDisk\Altium projects\Libraries\My_Database_Lib.DbLib/SSR$|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=VOR1142M4|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=My_Database_Lib.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=SSR$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SOP254P700X232-4N|AltLibLink_IsSameFootprint=False
+ParamVariation19=ParameterName=Comment|VariantValue=VOR1142M4
+ParamDesignator19=U3
+ParamVariation20=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator20=U3
+ParamVariation21=ParameterName=Current|VariantValue=140mA
+ParamDesignator21=U3
+ParamVariation22=ParameterName=Database Table Name|VariantValue=SSR$
+ParamDesignator22=U3
+ParamVariation23=ParameterName=Description|VariantValue=Relay Ssr 2MA 1.5V Dc-in 0.14A 400V Dc-out 4-PIN DIP SMD T/r
+ParamDesignator23=U3
+ParamVariation24=ParameterName=Designator|VariantValue=U?
+ParamDesignator24=U3
+ParamVariation25=ParameterName=Footprint|VariantValue=SOP254P700X232-4N
+ParamDesignator25=U3
+ParamVariation26=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator26=U3
+ParamVariation27=ParameterName=Library Reference|VariantValue=VOR1142M4
+ParamDesignator27=U3
+ParamVariation28=ParameterName=Manufacturer|VariantValue=Vishay
+ParamDesignator28=U3
+ParamVariation29=ParameterName=On-State Resistance|VariantValue=27R
+ParamDesignator29=U3
+ParamVariation30=ParameterName=Package|VariantValue=SOP-4
+ParamDesignator30=U3
+ParamVariation31=ParameterName=Part Number|VariantValue=VOR1142M4
+ParamDesignator31=U3
+ParamVariation32=ParameterName=PCB3D|VariantValue= 
+ParamDesignator32=U3
+ParamVariation33=ParameterName=Pin Info|VariantValue= 
+ParamDesignator33=U3
+ParamVariation34=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator34=U3
+ParamVariation35=ParameterName=Simulation|VariantValue= 
+ParamDesignator35=U3
+ParamVariation36=ParameterName=Voltage|VariantValue=400V
+ParamDesignator36=U3
+Variation4=Designator=U4|UniqueId=\NBTPNMHS|Kind=2|AlternatePart=VOR1142M4|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\xottal\YandexDisk\Altium projects\Libraries\My_Database_Lib.DbLib/SSR$|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=VOR1142M4|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=My_Database_Lib.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=SSR$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SOP254P700X232-4N|AltLibLink_IsSameFootprint=False
+ParamVariation37=ParameterName=Comment|VariantValue=VOR1142M4
+ParamDesignator37=U4
+ParamVariation38=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator38=U4
+ParamVariation39=ParameterName=Current|VariantValue=140mA
+ParamDesignator39=U4
+ParamVariation40=ParameterName=Database Table Name|VariantValue=SSR$
+ParamDesignator40=U4
+ParamVariation41=ParameterName=Description|VariantValue=Relay Ssr 2MA 1.5V Dc-in 0.14A 400V Dc-out 4-PIN DIP SMD T/r
+ParamDesignator41=U4
+ParamVariation42=ParameterName=Designator|VariantValue=U?
+ParamDesignator42=U4
+ParamVariation43=ParameterName=Footprint|VariantValue=SOP254P700X232-4N
+ParamDesignator43=U4
+ParamVariation44=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator44=U4
+ParamVariation45=ParameterName=Library Reference|VariantValue=VOR1142M4
+ParamDesignator45=U4
+ParamVariation46=ParameterName=Manufacturer|VariantValue=Vishay
+ParamDesignator46=U4
+ParamVariation47=ParameterName=On-State Resistance|VariantValue=27R
+ParamDesignator47=U4
+ParamVariation48=ParameterName=Package|VariantValue=SOP-4
+ParamDesignator48=U4
+ParamVariation49=ParameterName=Part Number|VariantValue=VOR1142M4
+ParamDesignator49=U4
+ParamVariation50=ParameterName=PCB3D|VariantValue= 
+ParamDesignator50=U4
+ParamVariation51=ParameterName=Pin Info|VariantValue= 
+ParamDesignator51=U4
+ParamVariation52=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator52=U4
+ParamVariation53=ParameterName=Simulation|VariantValue= 
+ParamDesignator53=U4
+ParamVariation54=ParameterName=Voltage|VariantValue=400V
+ParamDesignator54=U4
+Variation5=Designator=U25|UniqueId=\EJEXFEPA|Kind=2|AlternatePart=VOR1142M4|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\xottal\YandexDisk\Altium projects\Libraries\My_Database_Lib.DbLib/SSR$|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=VOR1142M4|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=My_Database_Lib.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=SSR$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SOP254P700X232-4N|AltLibLink_IsSameFootprint=False
+ParamVariation55=ParameterName=Comment|VariantValue=VOR1142M4
+ParamDesignator55=U25
+ParamVariation56=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator56=U25
+ParamVariation57=ParameterName=Current|VariantValue=140mA
+ParamDesignator57=U25
+ParamVariation58=ParameterName=Database Table Name|VariantValue=SSR$
+ParamDesignator58=U25
+ParamVariation59=ParameterName=Description|VariantValue=Relay Ssr 2MA 1.5V Dc-in 0.14A 400V Dc-out 4-PIN DIP SMD T/r
+ParamDesignator59=U25
+ParamVariation60=ParameterName=Designator|VariantValue=U?
+ParamDesignator60=U25
+ParamVariation61=ParameterName=Footprint|VariantValue=SOP254P700X232-4N
+ParamDesignator61=U25
+ParamVariation62=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator62=U25
+ParamVariation63=ParameterName=Library Reference|VariantValue=VOR1142M4
+ParamDesignator63=U25
+ParamVariation64=ParameterName=Manufacturer|VariantValue=Vishay
+ParamDesignator64=U25
+ParamVariation65=ParameterName=On-State Resistance|VariantValue=27R
+ParamDesignator65=U25
+ParamVariation66=ParameterName=Package|VariantValue=SOP-4
+ParamDesignator66=U25
+ParamVariation67=ParameterName=Part Number|VariantValue=VOR1142M4
+ParamDesignator67=U25
+ParamVariation68=ParameterName=PCB3D|VariantValue= 
+ParamDesignator68=U25
+ParamVariation69=ParameterName=Pin Info|VariantValue= 
+ParamDesignator69=U25
+ParamVariation70=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator70=U25
+ParamVariation71=ParameterName=Simulation|VariantValue= 
+ParamDesignator71=U25
+ParamVariation72=ParameterName=Voltage|VariantValue=400V
+ParamDesignator72=U25
+Variation6=Designator=U26|UniqueId=\DJJFRIKZ|Kind=2|AlternatePart=VOR1142M4|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\xottal\YandexDisk\Altium projects\Libraries\My_Database_Lib.DbLib/SSR$|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=VOR1142M4|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=My_Database_Lib.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=SSR$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SOP254P700X232-4N|AltLibLink_IsSameFootprint=False
+ParamVariation73=ParameterName=Comment|VariantValue=VOR1142M4
+ParamDesignator73=U26
+ParamVariation74=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator74=U26
+ParamVariation75=ParameterName=Current|VariantValue=140mA
+ParamDesignator75=U26
+ParamVariation76=ParameterName=Database Table Name|VariantValue=SSR$
+ParamDesignator76=U26
+ParamVariation77=ParameterName=Description|VariantValue=Relay Ssr 2MA 1.5V Dc-in 0.14A 400V Dc-out 4-PIN DIP SMD T/r
+ParamDesignator77=U26
+ParamVariation78=ParameterName=Designator|VariantValue=U?
+ParamDesignator78=U26
+ParamVariation79=ParameterName=Footprint|VariantValue=SOP254P700X232-4N
+ParamDesignator79=U26
+ParamVariation80=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator80=U26
+ParamVariation81=ParameterName=Library Reference|VariantValue=VOR1142M4
+ParamDesignator81=U26
+ParamVariation82=ParameterName=Manufacturer|VariantValue=Vishay
+ParamDesignator82=U26
+ParamVariation83=ParameterName=On-State Resistance|VariantValue=27R
+ParamDesignator83=U26
+ParamVariation84=ParameterName=Package|VariantValue=SOP-4
+ParamDesignator84=U26
+ParamVariation85=ParameterName=Part Number|VariantValue=VOR1142M4
+ParamDesignator85=U26
+ParamVariation86=ParameterName=PCB3D|VariantValue= 
+ParamDesignator86=U26
+ParamVariation87=ParameterName=Pin Info|VariantValue= 
+ParamDesignator87=U26
+ParamVariation88=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator88=U26
+ParamVariation89=ParameterName=Simulation|VariantValue= 
+ParamDesignator89=U26
+ParamVariation90=ParameterName=Voltage|VariantValue=400V
+ParamDesignator90=U26
+Variation7=Designator=U14|UniqueId=\CTBPZHQB|Kind=2|AlternatePart=VOR1142M4|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\xottal\YandexDisk\Altium projects\Libraries\My_Database_Lib.DbLib/SSR$|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=VOR1142M4|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=My_Database_Lib.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=SSR$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SOP254P700X232-4N|AltLibLink_IsSameFootprint=False
+ParamVariation91=ParameterName=Comment|VariantValue=VOR1142M4
+ParamDesignator91=U14
+ParamVariation92=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator92=U14
+ParamVariation93=ParameterName=Current|VariantValue=140mA
+ParamDesignator93=U14
+ParamVariation94=ParameterName=Database Table Name|VariantValue=SSR$
+ParamDesignator94=U14
+ParamVariation95=ParameterName=Description|VariantValue=Relay Ssr 2MA 1.5V Dc-in 0.14A 400V Dc-out 4-PIN DIP SMD T/r
+ParamDesignator95=U14
+ParamVariation96=ParameterName=Designator|VariantValue=U?
+ParamDesignator96=U14
+ParamVariation97=ParameterName=Footprint|VariantValue=SOP254P700X232-4N
+ParamDesignator97=U14
+ParamVariation98=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator98=U14
+ParamVariation99=ParameterName=Library Reference|VariantValue=VOR1142M4
+ParamDesignator99=U14
+ParamVariation100=ParameterName=Manufacturer|VariantValue=Vishay
+ParamDesignator100=U14
+ParamVariation101=ParameterName=On-State Resistance|VariantValue=27R
+ParamDesignator101=U14
+ParamVariation102=ParameterName=Package|VariantValue=SOP-4
+ParamDesignator102=U14
+ParamVariation103=ParameterName=Part Number|VariantValue=VOR1142M4
+ParamDesignator103=U14
+ParamVariation104=ParameterName=PCB3D|VariantValue= 
+ParamDesignator104=U14
+ParamVariation105=ParameterName=Pin Info|VariantValue= 
+ParamDesignator105=U14
+ParamVariation106=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator106=U14
+ParamVariation107=ParameterName=Simulation|VariantValue= 
+ParamDesignator107=U14
+ParamVariation108=ParameterName=Voltage|VariantValue=400V
+ParamDesignator108=U14
+Variation8=Designator=U13|UniqueId=\KMSAPLOZ|Kind=2|AlternatePart=VOR1142M4|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\xottal\YandexDisk\Altium projects\Libraries\My_Database_Lib.DbLib/SSR$|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=VOR1142M4|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=My_Database_Lib.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=SSR$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SOP254P700X232-4N|AltLibLink_IsSameFootprint=False
+ParamVariation109=ParameterName=Comment|VariantValue=VOR1142M4
+ParamDesignator109=U13
+ParamVariation110=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator110=U13
+ParamVariation111=ParameterName=Current|VariantValue=140mA
+ParamDesignator111=U13
+ParamVariation112=ParameterName=Database Table Name|VariantValue=SSR$
+ParamDesignator112=U13
+ParamVariation113=ParameterName=Description|VariantValue=Relay Ssr 2MA 1.5V Dc-in 0.14A 400V Dc-out 4-PIN DIP SMD T/r
+ParamDesignator113=U13
+ParamVariation114=ParameterName=Designator|VariantValue=U?
+ParamDesignator114=U13
+ParamVariation115=ParameterName=Footprint|VariantValue=SOP254P700X232-4N
+ParamDesignator115=U13
+ParamVariation116=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator116=U13
+ParamVariation117=ParameterName=Library Reference|VariantValue=VOR1142M4
+ParamDesignator117=U13
+ParamVariation118=ParameterName=Manufacturer|VariantValue=Vishay
+ParamDesignator118=U13
+ParamVariation119=ParameterName=On-State Resistance|VariantValue=27R
+ParamDesignator119=U13
+ParamVariation120=ParameterName=Package|VariantValue=SOP-4
+ParamDesignator120=U13
+ParamVariation121=ParameterName=Part Number|VariantValue=VOR1142M4
+ParamDesignator121=U13
+ParamVariation122=ParameterName=PCB3D|VariantValue= 
+ParamDesignator122=U13
+ParamVariation123=ParameterName=Pin Info|VariantValue= 
+ParamDesignator123=U13
+ParamVariation124=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator124=U13
+ParamVariation125=ParameterName=Simulation|VariantValue= 
+ParamDesignator125=U13
+ParamVariation126=ParameterName=Voltage|VariantValue=400V
+ParamDesignator126=U13
+Variation9=Designator=U12|UniqueId=\MDCWMKTG|Kind=2|AlternatePart=VOR1142M4|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\xottal\YandexDisk\Altium projects\Libraries\My_Database_Lib.DbLib/SSR$|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=VOR1142M4|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=My_Database_Lib.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=SSR$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SOP254P700X232-4N|AltLibLink_IsSameFootprint=False
+ParamVariation127=ParameterName=Comment|VariantValue=VOR1142M4
+ParamDesignator127=U12
+ParamVariation128=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator128=U12
+ParamVariation129=ParameterName=Current|VariantValue=140mA
+ParamDesignator129=U12
+ParamVariation130=ParameterName=Database Table Name|VariantValue=SSR$
+ParamDesignator130=U12
+ParamVariation131=ParameterName=Description|VariantValue=Relay Ssr 2MA 1.5V Dc-in 0.14A 400V Dc-out 4-PIN DIP SMD T/r
+ParamDesignator131=U12
+ParamVariation132=ParameterName=Designator|VariantValue=U?
+ParamDesignator132=U12
+ParamVariation133=ParameterName=Footprint|VariantValue=SOP254P700X232-4N
+ParamDesignator133=U12
+ParamVariation134=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator134=U12
+ParamVariation135=ParameterName=Library Reference|VariantValue=VOR1142M4
+ParamDesignator135=U12
+ParamVariation136=ParameterName=Manufacturer|VariantValue=Vishay
+ParamDesignator136=U12
+ParamVariation137=ParameterName=On-State Resistance|VariantValue=27R
+ParamDesignator137=U12
+ParamVariation138=ParameterName=Package|VariantValue=SOP-4
+ParamDesignator138=U12
+ParamVariation139=ParameterName=Part Number|VariantValue=VOR1142M4
+ParamDesignator139=U12
+ParamVariation140=ParameterName=PCB3D|VariantValue= 
+ParamDesignator140=U12
+ParamVariation141=ParameterName=Pin Info|VariantValue= 
+ParamDesignator141=U12
+ParamVariation142=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator142=U12
+ParamVariation143=ParameterName=Simulation|VariantValue= 
+ParamDesignator143=U12
+ParamVariation144=ParameterName=Voltage|VariantValue=400V
+ParamDesignator144=U12
+Variation10=Designator=U11|UniqueId=\EHIKLHDN|Kind=2|AlternatePart=VOR1142M4|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\xottal\YandexDisk\Altium projects\Libraries\My_Database_Lib.DbLib/SSR$|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=VOR1142M4|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=My_Database_Lib.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=SSR$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SOP254P700X232-4N|AltLibLink_IsSameFootprint=False
+ParamVariation145=ParameterName=Comment|VariantValue=VOR1142M4
+ParamDesignator145=U11
+ParamVariation146=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator146=U11
+ParamVariation147=ParameterName=Current|VariantValue=140mA
+ParamDesignator147=U11
+ParamVariation148=ParameterName=Database Table Name|VariantValue=SSR$
+ParamDesignator148=U11
+ParamVariation149=ParameterName=Description|VariantValue=Relay Ssr 2MA 1.5V Dc-in 0.14A 400V Dc-out 4-PIN DIP SMD T/r
+ParamDesignator149=U11
+ParamVariation150=ParameterName=Designator|VariantValue=U?
+ParamDesignator150=U11
+ParamVariation151=ParameterName=Footprint|VariantValue=SOP254P700X232-4N
+ParamDesignator151=U11
+ParamVariation152=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator152=U11
+ParamVariation153=ParameterName=Library Reference|VariantValue=VOR1142M4
+ParamDesignator153=U11
+ParamVariation154=ParameterName=Manufacturer|VariantValue=Vishay
+ParamDesignator154=U11
+ParamVariation155=ParameterName=On-State Resistance|VariantValue=27R
+ParamDesignator155=U11
+ParamVariation156=ParameterName=Package|VariantValue=SOP-4
+ParamDesignator156=U11
+ParamVariation157=ParameterName=Part Number|VariantValue=VOR1142M4
+ParamDesignator157=U11
+ParamVariation158=ParameterName=PCB3D|VariantValue= 
+ParamDesignator158=U11
+ParamVariation159=ParameterName=Pin Info|VariantValue= 
+ParamDesignator159=U11
+ParamVariation160=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator160=U11
+ParamVariation161=ParameterName=Simulation|VariantValue= 
+ParamDesignator161=U11
+ParamVariation162=ParameterName=Voltage|VariantValue=400V
+ParamDesignator162=U11
+Variation11=Designator=U10|UniqueId=\RJBYYFFW|Kind=2|AlternatePart=VOR1142M4|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\xottal\YandexDisk\Altium projects\Libraries\My_Database_Lib.DbLib/SSR$|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=VOR1142M4|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=My_Database_Lib.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=SSR$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SOP254P700X232-4N|AltLibLink_IsSameFootprint=False
+ParamVariation163=ParameterName=Comment|VariantValue=VOR1142M4
+ParamDesignator163=U10
+ParamVariation164=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator164=U10
+ParamVariation165=ParameterName=Current|VariantValue=140mA
+ParamDesignator165=U10
+ParamVariation166=ParameterName=Database Table Name|VariantValue=SSR$
+ParamDesignator166=U10
+ParamVariation167=ParameterName=Description|VariantValue=Relay Ssr 2MA 1.5V Dc-in 0.14A 400V Dc-out 4-PIN DIP SMD T/r
+ParamDesignator167=U10
+ParamVariation168=ParameterName=Designator|VariantValue=U?
+ParamDesignator168=U10
+ParamVariation169=ParameterName=Footprint|VariantValue=SOP254P700X232-4N
+ParamDesignator169=U10
+ParamVariation170=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator170=U10
+ParamVariation171=ParameterName=Library Reference|VariantValue=VOR1142M4
+ParamDesignator171=U10
+ParamVariation172=ParameterName=Manufacturer|VariantValue=Vishay
+ParamDesignator172=U10
+ParamVariation173=ParameterName=On-State Resistance|VariantValue=27R
+ParamDesignator173=U10
+ParamVariation174=ParameterName=Package|VariantValue=SOP-4
+ParamDesignator174=U10
+ParamVariation175=ParameterName=Part Number|VariantValue=VOR1142M4
+ParamDesignator175=U10
+ParamVariation176=ParameterName=PCB3D|VariantValue= 
+ParamDesignator176=U10
+ParamVariation177=ParameterName=Pin Info|VariantValue= 
+ParamDesignator177=U10
+ParamVariation178=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator178=U10
+ParamVariation179=ParameterName=Simulation|VariantValue= 
+ParamDesignator179=U10
+ParamVariation180=ParameterName=Voltage|VariantValue=400V
+ParamDesignator180=U10
+Variation12=Designator=U9|UniqueId=\JOXVNDVD|Kind=2|AlternatePart=VOR1142M4|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\xottal\YandexDisk\Altium projects\Libraries\My_Database_Lib.DbLib/SSR$|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=VOR1142M4|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=My_Database_Lib.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=SSR$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SOP254P700X232-4N|AltLibLink_IsSameFootprint=False
+ParamVariation181=ParameterName=Comment|VariantValue=VOR1142M4
+ParamDesignator181=U9
+ParamVariation182=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator182=U9
+ParamVariation183=ParameterName=Current|VariantValue=140mA
+ParamDesignator183=U9
+ParamVariation184=ParameterName=Database Table Name|VariantValue=SSR$
+ParamDesignator184=U9
+ParamVariation185=ParameterName=Description|VariantValue=Relay Ssr 2MA 1.5V Dc-in 0.14A 400V Dc-out 4-PIN DIP SMD T/r
+ParamDesignator185=U9
+ParamVariation186=ParameterName=Designator|VariantValue=U?
+ParamDesignator186=U9
+ParamVariation187=ParameterName=Footprint|VariantValue=SOP254P700X232-4N
+ParamDesignator187=U9
+ParamVariation188=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator188=U9
+ParamVariation189=ParameterName=Library Reference|VariantValue=VOR1142M4
+ParamDesignator189=U9
+ParamVariation190=ParameterName=Manufacturer|VariantValue=Vishay
+ParamDesignator190=U9
+ParamVariation191=ParameterName=On-State Resistance|VariantValue=27R
+ParamDesignator191=U9
+ParamVariation192=ParameterName=Package|VariantValue=SOP-4
+ParamDesignator192=U9
+ParamVariation193=ParameterName=Part Number|VariantValue=VOR1142M4
+ParamDesignator193=U9
+ParamVariation194=ParameterName=PCB3D|VariantValue= 
+ParamDesignator194=U9
+ParamVariation195=ParameterName=Pin Info|VariantValue= 
+ParamDesignator195=U9
+ParamVariation196=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator196=U9
+ParamVariation197=ParameterName=Simulation|VariantValue= 
+ParamDesignator197=U9
+ParamVariation198=ParameterName=Voltage|VariantValue=400V
+ParamDesignator198=U9
+Variation13=Designator=U8|UniqueId=\SGOGOTBL|Kind=2|AlternatePart=VOR1142M4|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\xottal\YandexDisk\Altium projects\Libraries\My_Database_Lib.DbLib/SSR$|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=VOR1142M4|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=My_Database_Lib.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=SSR$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SOP254P700X232-4N|AltLibLink_IsSameFootprint=False
+ParamVariation199=ParameterName=Comment|VariantValue=VOR1142M4
+ParamDesignator199=U8
+ParamVariation200=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator200=U8
+ParamVariation201=ParameterName=Current|VariantValue=140mA
+ParamDesignator201=U8
+ParamVariation202=ParameterName=Database Table Name|VariantValue=SSR$
+ParamDesignator202=U8
+ParamVariation203=ParameterName=Description|VariantValue=Relay Ssr 2MA 1.5V Dc-in 0.14A 400V Dc-out 4-PIN DIP SMD T/r
+ParamDesignator203=U8
+ParamVariation204=ParameterName=Designator|VariantValue=U?
+ParamDesignator204=U8
+ParamVariation205=ParameterName=Footprint|VariantValue=SOP254P700X232-4N
+ParamDesignator205=U8
+ParamVariation206=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator206=U8
+ParamVariation207=ParameterName=Library Reference|VariantValue=VOR1142M4
+ParamDesignator207=U8
+ParamVariation208=ParameterName=Manufacturer|VariantValue=Vishay
+ParamDesignator208=U8
+ParamVariation209=ParameterName=On-State Resistance|VariantValue=27R
+ParamDesignator209=U8
+ParamVariation210=ParameterName=Package|VariantValue=SOP-4
+ParamDesignator210=U8
+ParamVariation211=ParameterName=Part Number|VariantValue=VOR1142M4
+ParamDesignator211=U8
+ParamVariation212=ParameterName=PCB3D|VariantValue= 
+ParamDesignator212=U8
+ParamVariation213=ParameterName=Pin Info|VariantValue= 
+ParamDesignator213=U8
+ParamVariation214=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator214=U8
+ParamVariation215=ParameterName=Simulation|VariantValue= 
+ParamDesignator215=U8
+ParamVariation216=ParameterName=Voltage|VariantValue=400V
+ParamDesignator216=U8
+Variation14=Designator=U7|UniqueId=\XMGWJYOB|Kind=2|AlternatePart=VOR1142M4|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\xottal\YandexDisk\Altium projects\Libraries\My_Database_Lib.DbLib/SSR$|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=VOR1142M4|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=My_Database_Lib.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=SSR$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SOP254P700X232-4N|AltLibLink_IsSameFootprint=False
+ParamVariation217=ParameterName=Comment|VariantValue=VOR1142M4
+ParamDesignator217=U7
+ParamVariation218=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator218=U7
+ParamVariation219=ParameterName=Current|VariantValue=140mA
+ParamDesignator219=U7
+ParamVariation220=ParameterName=Database Table Name|VariantValue=SSR$
+ParamDesignator220=U7
+ParamVariation221=ParameterName=Description|VariantValue=Relay Ssr 2MA 1.5V Dc-in 0.14A 400V Dc-out 4-PIN DIP SMD T/r
+ParamDesignator221=U7
+ParamVariation222=ParameterName=Designator|VariantValue=U?
+ParamDesignator222=U7
+ParamVariation223=ParameterName=Footprint|VariantValue=SOP254P700X232-4N
+ParamDesignator223=U7
+ParamVariation224=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator224=U7
+ParamVariation225=ParameterName=Library Reference|VariantValue=VOR1142M4
+ParamDesignator225=U7
+ParamVariation226=ParameterName=Manufacturer|VariantValue=Vishay
+ParamDesignator226=U7
+ParamVariation227=ParameterName=On-State Resistance|VariantValue=27R
+ParamDesignator227=U7
+ParamVariation228=ParameterName=Package|VariantValue=SOP-4
+ParamDesignator228=U7
+ParamVariation229=ParameterName=Part Number|VariantValue=VOR1142M4
+ParamDesignator229=U7
+ParamVariation230=ParameterName=PCB3D|VariantValue= 
+ParamDesignator230=U7
+ParamVariation231=ParameterName=Pin Info|VariantValue= 
+ParamDesignator231=U7
+ParamVariation232=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator232=U7
+ParamVariation233=ParameterName=Simulation|VariantValue= 
+ParamDesignator233=U7
+ParamVariation234=ParameterName=Voltage|VariantValue=400V
+ParamDesignator234=U7
+Variation15=Designator=U6|UniqueId=\WHRRSZLO|Kind=2|AlternatePart=VOR1142M4|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\xottal\YandexDisk\Altium projects\Libraries\My_Database_Lib.DbLib/SSR$|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=VOR1142M4|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=My_Database_Lib.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=SSR$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SOP254P700X232-4N|AltLibLink_IsSameFootprint=False
+ParamVariation235=ParameterName=Comment|VariantValue=VOR1142M4
+ParamDesignator235=U6
+ParamVariation236=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator236=U6
+ParamVariation237=ParameterName=Current|VariantValue=140mA
+ParamDesignator237=U6
+ParamVariation238=ParameterName=Database Table Name|VariantValue=SSR$
+ParamDesignator238=U6
+ParamVariation239=ParameterName=Description|VariantValue=Relay Ssr 2MA 1.5V Dc-in 0.14A 400V Dc-out 4-PIN DIP SMD T/r
+ParamDesignator239=U6
+ParamVariation240=ParameterName=Designator|VariantValue=U?
+ParamDesignator240=U6
+ParamVariation241=ParameterName=Footprint|VariantValue=SOP254P700X232-4N
+ParamDesignator241=U6
+ParamVariation242=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator242=U6
+ParamVariation243=ParameterName=Library Reference|VariantValue=VOR1142M4
+ParamDesignator243=U6
+ParamVariation244=ParameterName=Manufacturer|VariantValue=Vishay
+ParamDesignator244=U6
+ParamVariation245=ParameterName=On-State Resistance|VariantValue=27R
+ParamDesignator245=U6
+ParamVariation246=ParameterName=Package|VariantValue=SOP-4
+ParamDesignator246=U6
+ParamVariation247=ParameterName=Part Number|VariantValue=VOR1142M4
+ParamDesignator247=U6
+ParamVariation248=ParameterName=PCB3D|VariantValue= 
+ParamDesignator248=U6
+ParamVariation249=ParameterName=Pin Info|VariantValue= 
+ParamDesignator249=U6
+ParamVariation250=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator250=U6
+ParamVariation251=ParameterName=Simulation|VariantValue= 
+ParamDesignator251=U6
+ParamVariation252=ParameterName=Voltage|VariantValue=400V
+ParamDesignator252=U6
+Variation16=Designator=U15|UniqueId=\PZIRNABZ|Kind=2|AlternatePart=VOR1142M4|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\xottal\YandexDisk\Altium projects\Libraries\My_Database_Lib.DbLib/SSR$|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=VOR1142M4|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=My_Database_Lib.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=SSR$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SOP254P700X232-4N|AltLibLink_IsSameFootprint=False
+ParamVariation253=ParameterName=Comment|VariantValue=VOR1142M4
+ParamDesignator253=U15
+ParamVariation254=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator254=U15
+ParamVariation255=ParameterName=Current|VariantValue=140mA
+ParamDesignator255=U15
+ParamVariation256=ParameterName=Database Table Name|VariantValue=SSR$
+ParamDesignator256=U15
+ParamVariation257=ParameterName=Description|VariantValue=Relay Ssr 2MA 1.5V Dc-in 0.14A 400V Dc-out 4-PIN DIP SMD T/r
+ParamDesignator257=U15
+ParamVariation258=ParameterName=Designator|VariantValue=U?
+ParamDesignator258=U15
+ParamVariation259=ParameterName=Footprint|VariantValue=SOP254P700X232-4N
+ParamDesignator259=U15
+ParamVariation260=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator260=U15
+ParamVariation261=ParameterName=Library Reference|VariantValue=VOR1142M4
+ParamDesignator261=U15
+ParamVariation262=ParameterName=Manufacturer|VariantValue=Vishay
+ParamDesignator262=U15
+ParamVariation263=ParameterName=On-State Resistance|VariantValue=27R
+ParamDesignator263=U15
+ParamVariation264=ParameterName=Package|VariantValue=SOP-4
+ParamDesignator264=U15
+ParamVariation265=ParameterName=Part Number|VariantValue=VOR1142M4
+ParamDesignator265=U15
+ParamVariation266=ParameterName=PCB3D|VariantValue= 
+ParamDesignator266=U15
+ParamVariation267=ParameterName=Pin Info|VariantValue= 
+ParamDesignator267=U15
+ParamVariation268=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator268=U15
+ParamVariation269=ParameterName=Simulation|VariantValue= 
+ParamDesignator269=U15
+ParamVariation270=ParameterName=Voltage|VariantValue=400V
+ParamDesignator270=U15
+Variation17=Designator=U16|UniqueId=\LHQRBNFQ|Kind=2|AlternatePart=VOR1142M4|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\xottal\YandexDisk\Altium projects\Libraries\My_Database_Lib.DbLib/SSR$|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=VOR1142M4|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=My_Database_Lib.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=SSR$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SOP254P700X232-4N|AltLibLink_IsSameFootprint=False
+ParamVariation271=ParameterName=Comment|VariantValue=VOR1142M4
+ParamDesignator271=U16
+ParamVariation272=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator272=U16
+ParamVariation273=ParameterName=Current|VariantValue=140mA
+ParamDesignator273=U16
+ParamVariation274=ParameterName=Database Table Name|VariantValue=SSR$
+ParamDesignator274=U16
+ParamVariation275=ParameterName=Description|VariantValue=Relay Ssr 2MA 1.5V Dc-in 0.14A 400V Dc-out 4-PIN DIP SMD T/r
+ParamDesignator275=U16
+ParamVariation276=ParameterName=Designator|VariantValue=U?
+ParamDesignator276=U16
+ParamVariation277=ParameterName=Footprint|VariantValue=SOP254P700X232-4N
+ParamDesignator277=U16
+ParamVariation278=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator278=U16
+ParamVariation279=ParameterName=Library Reference|VariantValue=VOR1142M4
+ParamDesignator279=U16
+ParamVariation280=ParameterName=Manufacturer|VariantValue=Vishay
+ParamDesignator280=U16
+ParamVariation281=ParameterName=On-State Resistance|VariantValue=27R
+ParamDesignator281=U16
+ParamVariation282=ParameterName=Package|VariantValue=SOP-4
+ParamDesignator282=U16
+ParamVariation283=ParameterName=Part Number|VariantValue=VOR1142M4
+ParamDesignator283=U16
+ParamVariation284=ParameterName=PCB3D|VariantValue= 
+ParamDesignator284=U16
+ParamVariation285=ParameterName=Pin Info|VariantValue= 
+ParamDesignator285=U16
+ParamVariation286=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator286=U16
+ParamVariation287=ParameterName=Simulation|VariantValue= 
+ParamDesignator287=U16
+ParamVariation288=ParameterName=Voltage|VariantValue=400V
+ParamDesignator288=U16
+Variation18=Designator=U33|UniqueId=\SJYMBHCR|Kind=2|AlternatePart=VOR1142M4|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\xottal\YandexDisk\Altium projects\Libraries\My_Database_Lib.DbLib/SSR$|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=VOR1142M4|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=My_Database_Lib.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=SSR$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SOP254P700X232-4N|AltLibLink_IsSameFootprint=False
+ParamVariation289=ParameterName=Comment|VariantValue=VOR1142M4
+ParamDesignator289=U33
+ParamVariation290=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator290=U33
+ParamVariation291=ParameterName=Current|VariantValue=140mA
+ParamDesignator291=U33
+ParamVariation292=ParameterName=Database Table Name|VariantValue=SSR$
+ParamDesignator292=U33
+ParamVariation293=ParameterName=Description|VariantValue=Relay Ssr 2MA 1.5V Dc-in 0.14A 400V Dc-out 4-PIN DIP SMD T/r
+ParamDesignator293=U33
+ParamVariation294=ParameterName=Designator|VariantValue=U?
+ParamDesignator294=U33
+ParamVariation295=ParameterName=Footprint|VariantValue=SOP254P700X232-4N
+ParamDesignator295=U33
+ParamVariation296=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator296=U33
+ParamVariation297=ParameterName=Library Reference|VariantValue=VOR1142M4
+ParamDesignator297=U33
+ParamVariation298=ParameterName=Manufacturer|VariantValue=Vishay
+ParamDesignator298=U33
+ParamVariation299=ParameterName=On-State Resistance|VariantValue=27R
+ParamDesignator299=U33
+ParamVariation300=ParameterName=Package|VariantValue=SOP-4
+ParamDesignator300=U33
+ParamVariation301=ParameterName=Part Number|VariantValue=VOR1142M4
+ParamDesignator301=U33
+ParamVariation302=ParameterName=PCB3D|VariantValue= 
+ParamDesignator302=U33
+ParamVariation303=ParameterName=Pin Info|VariantValue= 
+ParamDesignator303=U33
+ParamVariation304=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator304=U33
+ParamVariation305=ParameterName=Simulation|VariantValue= 
+ParamDesignator305=U33
+ParamVariation306=ParameterName=Voltage|VariantValue=400V
+ParamDesignator306=U33
+Variation19=Designator=U45|UniqueId=\OGVQZCKE|Kind=2|AlternatePart=VOR1142M4|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\xottal\YandexDisk\Altium projects\Libraries\My_Database_Lib.DbLib/SSR$|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=VOR1142M4|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=My_Database_Lib.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=SSR$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SOP254P700X232-4N|AltLibLink_IsSameFootprint=False
+ParamVariation307=ParameterName=Comment|VariantValue=VOR1142M4
+ParamDesignator307=U45
+ParamVariation308=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator308=U45
+ParamVariation309=ParameterName=Current|VariantValue=140mA
+ParamDesignator309=U45
+ParamVariation310=ParameterName=Database Table Name|VariantValue=SSR$
+ParamDesignator310=U45
+ParamVariation311=ParameterName=Description|VariantValue=Relay Ssr 2MA 1.5V Dc-in 0.14A 400V Dc-out 4-PIN DIP SMD T/r
+ParamDesignator311=U45
+ParamVariation312=ParameterName=Designator|VariantValue=U?
+ParamDesignator312=U45
+ParamVariation313=ParameterName=Footprint|VariantValue=SOP254P700X232-4N
+ParamDesignator313=U45
+ParamVariation314=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator314=U45
+ParamVariation315=ParameterName=Library Reference|VariantValue=VOR1142M4
+ParamDesignator315=U45
+ParamVariation316=ParameterName=Manufacturer|VariantValue=Vishay
+ParamDesignator316=U45
+ParamVariation317=ParameterName=On-State Resistance|VariantValue=27R
+ParamDesignator317=U45
+ParamVariation318=ParameterName=Package|VariantValue=SOP-4
+ParamDesignator318=U45
+ParamVariation319=ParameterName=Part Number|VariantValue=VOR1142M4
+ParamDesignator319=U45
+ParamVariation320=ParameterName=PCB3D|VariantValue= 
+ParamDesignator320=U45
+ParamVariation321=ParameterName=Pin Info|VariantValue= 
+ParamDesignator321=U45
+ParamVariation322=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator322=U45
+ParamVariation323=ParameterName=Simulation|VariantValue= 
+ParamDesignator323=U45
+ParamVariation324=ParameterName=Voltage|VariantValue=400V
+ParamDesignator324=U45
+Variation20=Designator=U41|UniqueId=\OOQRLNML|Kind=2|AlternatePart=VOR1142M4|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\xottal\YandexDisk\Altium projects\Libraries\My_Database_Lib.DbLib/SSR$|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=VOR1142M4|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=My_Database_Lib.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=SSR$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SOP254P700X232-4N|AltLibLink_IsSameFootprint=False
+ParamVariation325=ParameterName=Comment|VariantValue=VOR1142M4
+ParamDesignator325=U41
+ParamVariation326=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator326=U41
+ParamVariation327=ParameterName=Current|VariantValue=140mA
+ParamDesignator327=U41
+ParamVariation328=ParameterName=Database Table Name|VariantValue=SSR$
+ParamDesignator328=U41
+ParamVariation329=ParameterName=Description|VariantValue=Relay Ssr 2MA 1.5V Dc-in 0.14A 400V Dc-out 4-PIN DIP SMD T/r
+ParamDesignator329=U41
+ParamVariation330=ParameterName=Designator|VariantValue=U?
+ParamDesignator330=U41
+ParamVariation331=ParameterName=Footprint|VariantValue=SOP254P700X232-4N
+ParamDesignator331=U41
+ParamVariation332=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator332=U41
+ParamVariation333=ParameterName=Library Reference|VariantValue=VOR1142M4
+ParamDesignator333=U41
+ParamVariation334=ParameterName=Manufacturer|VariantValue=Vishay
+ParamDesignator334=U41
+ParamVariation335=ParameterName=On-State Resistance|VariantValue=27R
+ParamDesignator335=U41
+ParamVariation336=ParameterName=Package|VariantValue=SOP-4
+ParamDesignator336=U41
+ParamVariation337=ParameterName=Part Number|VariantValue=VOR1142M4
+ParamDesignator337=U41
+ParamVariation338=ParameterName=PCB3D|VariantValue= 
+ParamDesignator338=U41
+ParamVariation339=ParameterName=Pin Info|VariantValue= 
+ParamDesignator339=U41
+ParamVariation340=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator340=U41
+ParamVariation341=ParameterName=Simulation|VariantValue= 
+ParamDesignator341=U41
+ParamVariation342=ParameterName=Voltage|VariantValue=400V
+ParamDesignator342=U41
+Variation21=Designator=U42|UniqueId=\FXKFDMPB|Kind=2|AlternatePart=VOR1142M4|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\xottal\YandexDisk\Altium projects\Libraries\My_Database_Lib.DbLib/SSR$|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=VOR1142M4|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=My_Database_Lib.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=SSR$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SOP254P700X232-4N|AltLibLink_IsSameFootprint=False
+ParamVariation343=ParameterName=Comment|VariantValue=VOR1142M4
+ParamDesignator343=U42
+ParamVariation344=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator344=U42
+ParamVariation345=ParameterName=Current|VariantValue=140mA
+ParamDesignator345=U42
+ParamVariation346=ParameterName=Database Table Name|VariantValue=SSR$
+ParamDesignator346=U42
+ParamVariation347=ParameterName=Description|VariantValue=Relay Ssr 2MA 1.5V Dc-in 0.14A 400V Dc-out 4-PIN DIP SMD T/r
+ParamDesignator347=U42
+ParamVariation348=ParameterName=Designator|VariantValue=U?
+ParamDesignator348=U42
+ParamVariation349=ParameterName=Footprint|VariantValue=SOP254P700X232-4N
+ParamDesignator349=U42
+ParamVariation350=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator350=U42
+ParamVariation351=ParameterName=Library Reference|VariantValue=VOR1142M4
+ParamDesignator351=U42
+ParamVariation352=ParameterName=Manufacturer|VariantValue=Vishay
+ParamDesignator352=U42
+ParamVariation353=ParameterName=On-State Resistance|VariantValue=27R
+ParamDesignator353=U42
+ParamVariation354=ParameterName=Package|VariantValue=SOP-4
+ParamDesignator354=U42
+ParamVariation355=ParameterName=Part Number|VariantValue=VOR1142M4
+ParamDesignator355=U42
+ParamVariation356=ParameterName=PCB3D|VariantValue= 
+ParamDesignator356=U42
+ParamVariation357=ParameterName=Pin Info|VariantValue= 
+ParamDesignator357=U42
+ParamVariation358=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator358=U42
+ParamVariation359=ParameterName=Simulation|VariantValue= 
+ParamDesignator359=U42
+ParamVariation360=ParameterName=Voltage|VariantValue=400V
+ParamDesignator360=U42
+Variation22=Designator=U43|UniqueId=\XFRIXNZI|Kind=2|AlternatePart=VOR1142M4|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\xottal\YandexDisk\Altium projects\Libraries\My_Database_Lib.DbLib/SSR$|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=VOR1142M4|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=My_Database_Lib.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=SSR$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SOP254P700X232-4N|AltLibLink_IsSameFootprint=False
+ParamVariation361=ParameterName=Comment|VariantValue=VOR1142M4
+ParamDesignator361=U43
+ParamVariation362=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator362=U43
+ParamVariation363=ParameterName=Current|VariantValue=140mA
+ParamDesignator363=U43
+ParamVariation364=ParameterName=Database Table Name|VariantValue=SSR$
+ParamDesignator364=U43
+ParamVariation365=ParameterName=Description|VariantValue=Relay Ssr 2MA 1.5V Dc-in 0.14A 400V Dc-out 4-PIN DIP SMD T/r
+ParamDesignator365=U43
+ParamVariation366=ParameterName=Designator|VariantValue=U?
+ParamDesignator366=U43
+ParamVariation367=ParameterName=Footprint|VariantValue=SOP254P700X232-4N
+ParamDesignator367=U43
+ParamVariation368=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator368=U43
+ParamVariation369=ParameterName=Library Reference|VariantValue=VOR1142M4
+ParamDesignator369=U43
+ParamVariation370=ParameterName=Manufacturer|VariantValue=Vishay
+ParamDesignator370=U43
+ParamVariation371=ParameterName=On-State Resistance|VariantValue=27R
+ParamDesignator371=U43
+ParamVariation372=ParameterName=Package|VariantValue=SOP-4
+ParamDesignator372=U43
+ParamVariation373=ParameterName=Part Number|VariantValue=VOR1142M4
+ParamDesignator373=U43
+ParamVariation374=ParameterName=PCB3D|VariantValue= 
+ParamDesignator374=U43
+ParamVariation375=ParameterName=Pin Info|VariantValue= 
+ParamDesignator375=U43
+ParamVariation376=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator376=U43
+ParamVariation377=ParameterName=Simulation|VariantValue= 
+ParamDesignator377=U43
+ParamVariation378=ParameterName=Voltage|VariantValue=400V
+ParamDesignator378=U43
+Variation23=Designator=U44|UniqueId=\ABKCMKFU|Kind=2|AlternatePart=VOR1142M4|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\xottal\YandexDisk\Altium projects\Libraries\My_Database_Lib.DbLib/SSR$|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=VOR1142M4|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=My_Database_Lib.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=SSR$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SOP254P700X232-4N|AltLibLink_IsSameFootprint=False
+ParamVariation379=ParameterName=Comment|VariantValue=VOR1142M4
+ParamDesignator379=U44
+ParamVariation380=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator380=U44
+ParamVariation381=ParameterName=Current|VariantValue=140mA
+ParamDesignator381=U44
+ParamVariation382=ParameterName=Database Table Name|VariantValue=SSR$
+ParamDesignator382=U44
+ParamVariation383=ParameterName=Description|VariantValue=Relay Ssr 2MA 1.5V Dc-in 0.14A 400V Dc-out 4-PIN DIP SMD T/r
+ParamDesignator383=U44
+ParamVariation384=ParameterName=Designator|VariantValue=U?
+ParamDesignator384=U44
+ParamVariation385=ParameterName=Footprint|VariantValue=SOP254P700X232-4N
+ParamDesignator385=U44
+ParamVariation386=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator386=U44
+ParamVariation387=ParameterName=Library Reference|VariantValue=VOR1142M4
+ParamDesignator387=U44
+ParamVariation388=ParameterName=Manufacturer|VariantValue=Vishay
+ParamDesignator388=U44
+ParamVariation389=ParameterName=On-State Resistance|VariantValue=27R
+ParamDesignator389=U44
+ParamVariation390=ParameterName=Package|VariantValue=SOP-4
+ParamDesignator390=U44
+ParamVariation391=ParameterName=Part Number|VariantValue=VOR1142M4
+ParamDesignator391=U44
+ParamVariation392=ParameterName=PCB3D|VariantValue= 
+ParamDesignator392=U44
+ParamVariation393=ParameterName=Pin Info|VariantValue= 
+ParamDesignator393=U44
+ParamVariation394=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator394=U44
+ParamVariation395=ParameterName=Simulation|VariantValue= 
+ParamDesignator395=U44
+ParamVariation396=ParameterName=Voltage|VariantValue=400V
+ParamDesignator396=U44
+Variation24=Designator=U46|UniqueId=\ZGYTZTXP|Kind=2|AlternatePart=VOR1142M4|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\xottal\YandexDisk\Altium projects\Libraries\My_Database_Lib.DbLib/SSR$|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=VOR1142M4|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=My_Database_Lib.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=SSR$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SOP254P700X232-4N|AltLibLink_IsSameFootprint=False
+ParamVariation397=ParameterName=Comment|VariantValue=VOR1142M4
+ParamDesignator397=U46
+ParamVariation398=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator398=U46
+ParamVariation399=ParameterName=Current|VariantValue=140mA
+ParamDesignator399=U46
+ParamVariation400=ParameterName=Database Table Name|VariantValue=SSR$
+ParamDesignator400=U46
+ParamVariation401=ParameterName=Description|VariantValue=Relay Ssr 2MA 1.5V Dc-in 0.14A 400V Dc-out 4-PIN DIP SMD T/r
+ParamDesignator401=U46
+ParamVariation402=ParameterName=Designator|VariantValue=U?
+ParamDesignator402=U46
+ParamVariation403=ParameterName=Footprint|VariantValue=SOP254P700X232-4N
+ParamDesignator403=U46
+ParamVariation404=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator404=U46
+ParamVariation405=ParameterName=Library Reference|VariantValue=VOR1142M4
+ParamDesignator405=U46
+ParamVariation406=ParameterName=Manufacturer|VariantValue=Vishay
+ParamDesignator406=U46
+ParamVariation407=ParameterName=On-State Resistance|VariantValue=27R
+ParamDesignator407=U46
+ParamVariation408=ParameterName=Package|VariantValue=SOP-4
+ParamDesignator408=U46
+ParamVariation409=ParameterName=Part Number|VariantValue=VOR1142M4
+ParamDesignator409=U46
+ParamVariation410=ParameterName=PCB3D|VariantValue= 
+ParamDesignator410=U46
+ParamVariation411=ParameterName=Pin Info|VariantValue= 
+ParamDesignator411=U46
+ParamVariation412=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator412=U46
+ParamVariation413=ParameterName=Simulation|VariantValue= 
+ParamDesignator413=U46
+ParamVariation414=ParameterName=Voltage|VariantValue=400V
+ParamDesignator414=U46
+Variation25=Designator=U32|UniqueId=\ORIRKAUX|Kind=2|AlternatePart=VOR1142M4|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\xottal\YandexDisk\Altium projects\Libraries\My_Database_Lib.DbLib/SSR$|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=VOR1142M4|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=My_Database_Lib.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=SSR$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SOP254P700X232-4N|AltLibLink_IsSameFootprint=False
+ParamVariation415=ParameterName=Comment|VariantValue=VOR1142M4
+ParamDesignator415=U32
+ParamVariation416=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator416=U32
+ParamVariation417=ParameterName=Current|VariantValue=140mA
+ParamDesignator417=U32
+ParamVariation418=ParameterName=Database Table Name|VariantValue=SSR$
+ParamDesignator418=U32
+ParamVariation419=ParameterName=Description|VariantValue=Relay Ssr 2MA 1.5V Dc-in 0.14A 400V Dc-out 4-PIN DIP SMD T/r
+ParamDesignator419=U32
+ParamVariation420=ParameterName=Designator|VariantValue=U?
+ParamDesignator420=U32
+ParamVariation421=ParameterName=Footprint|VariantValue=SOP254P700X232-4N
+ParamDesignator421=U32
+ParamVariation422=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator422=U32
+ParamVariation423=ParameterName=Library Reference|VariantValue=VOR1142M4
+ParamDesignator423=U32
+ParamVariation424=ParameterName=Manufacturer|VariantValue=Vishay
+ParamDesignator424=U32
+ParamVariation425=ParameterName=On-State Resistance|VariantValue=27R
+ParamDesignator425=U32
+ParamVariation426=ParameterName=Package|VariantValue=SOP-4
+ParamDesignator426=U32
+ParamVariation427=ParameterName=Part Number|VariantValue=VOR1142M4
+ParamDesignator427=U32
+ParamVariation428=ParameterName=PCB3D|VariantValue= 
+ParamDesignator428=U32
+ParamVariation429=ParameterName=Pin Info|VariantValue= 
+ParamDesignator429=U32
+ParamVariation430=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator430=U32
+ParamVariation431=ParameterName=Simulation|VariantValue= 
+ParamDesignator431=U32
+ParamVariation432=ParameterName=Voltage|VariantValue=400V
+ParamDesignator432=U32
+Variation26=Designator=U34|UniqueId=\JWCPEJKR|Kind=2|AlternatePart=VOR1142M4|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\xottal\YandexDisk\Altium projects\Libraries\My_Database_Lib.DbLib/SSR$|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=VOR1142M4|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=My_Database_Lib.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=SSR$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SOP254P700X232-4N|AltLibLink_IsSameFootprint=False
+ParamVariation433=ParameterName=Comment|VariantValue=VOR1142M4
+ParamDesignator433=U34
+ParamVariation434=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator434=U34
+ParamVariation435=ParameterName=Current|VariantValue=140mA
+ParamDesignator435=U34
+ParamVariation436=ParameterName=Database Table Name|VariantValue=SSR$
+ParamDesignator436=U34
+ParamVariation437=ParameterName=Description|VariantValue=Relay Ssr 2MA 1.5V Dc-in 0.14A 400V Dc-out 4-PIN DIP SMD T/r
+ParamDesignator437=U34
+ParamVariation438=ParameterName=Designator|VariantValue=U?
+ParamDesignator438=U34
+ParamVariation439=ParameterName=Footprint|VariantValue=SOP254P700X232-4N
+ParamDesignator439=U34
+ParamVariation440=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator440=U34
+ParamVariation441=ParameterName=Library Reference|VariantValue=VOR1142M4
+ParamDesignator441=U34
+ParamVariation442=ParameterName=Manufacturer|VariantValue=Vishay
+ParamDesignator442=U34
+ParamVariation443=ParameterName=On-State Resistance|VariantValue=27R
+ParamDesignator443=U34
+ParamVariation444=ParameterName=Package|VariantValue=SOP-4
+ParamDesignator444=U34
+ParamVariation445=ParameterName=Part Number|VariantValue=VOR1142M4
+ParamDesignator445=U34
+ParamVariation446=ParameterName=PCB3D|VariantValue= 
+ParamDesignator446=U34
+ParamVariation447=ParameterName=Pin Info|VariantValue= 
+ParamDesignator447=U34
+ParamVariation448=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator448=U34
+ParamVariation449=ParameterName=Simulation|VariantValue= 
+ParamDesignator449=U34
+ParamVariation450=ParameterName=Voltage|VariantValue=400V
+ParamDesignator450=U34
+Variation27=Designator=U35|UniqueId=\AZAWGFIF|Kind=2|AlternatePart=VOR1142M4|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\xottal\YandexDisk\Altium projects\Libraries\My_Database_Lib.DbLib/SSR$|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=VOR1142M4|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=My_Database_Lib.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=SSR$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SOP254P700X232-4N|AltLibLink_IsSameFootprint=False
+ParamVariation451=ParameterName=Comment|VariantValue=VOR1142M4
+ParamDesignator451=U35
+ParamVariation452=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator452=U35
+ParamVariation453=ParameterName=Current|VariantValue=140mA
+ParamDesignator453=U35
+ParamVariation454=ParameterName=Database Table Name|VariantValue=SSR$
+ParamDesignator454=U35
+ParamVariation455=ParameterName=Description|VariantValue=Relay Ssr 2MA 1.5V Dc-in 0.14A 400V Dc-out 4-PIN DIP SMD T/r
+ParamDesignator455=U35
+ParamVariation456=ParameterName=Designator|VariantValue=U?
+ParamDesignator456=U35
+ParamVariation457=ParameterName=Footprint|VariantValue=SOP254P700X232-4N
+ParamDesignator457=U35
+ParamVariation458=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator458=U35
+ParamVariation459=ParameterName=Library Reference|VariantValue=VOR1142M4
+ParamDesignator459=U35
+ParamVariation460=ParameterName=Manufacturer|VariantValue=Vishay
+ParamDesignator460=U35
+ParamVariation461=ParameterName=On-State Resistance|VariantValue=27R
+ParamDesignator461=U35
+ParamVariation462=ParameterName=Package|VariantValue=SOP-4
+ParamDesignator462=U35
+ParamVariation463=ParameterName=Part Number|VariantValue=VOR1142M4
+ParamDesignator463=U35
+ParamVariation464=ParameterName=PCB3D|VariantValue= 
+ParamDesignator464=U35
+ParamVariation465=ParameterName=Pin Info|VariantValue= 
+ParamDesignator465=U35
+ParamVariation466=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator466=U35
+ParamVariation467=ParameterName=Simulation|VariantValue= 
+ParamDesignator467=U35
+ParamVariation468=ParameterName=Voltage|VariantValue=400V
+ParamDesignator468=U35
+Variation28=Designator=U36|UniqueId=\VMYKHMCQ|Kind=2|AlternatePart=VOR1142M4|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\xottal\YandexDisk\Altium projects\Libraries\My_Database_Lib.DbLib/SSR$|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=VOR1142M4|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=My_Database_Lib.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=SSR$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SOP254P700X232-4N|AltLibLink_IsSameFootprint=False
+ParamVariation469=ParameterName=Comment|VariantValue=VOR1142M4
+ParamDesignator469=U36
+ParamVariation470=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator470=U36
+ParamVariation471=ParameterName=Current|VariantValue=140mA
+ParamDesignator471=U36
+ParamVariation472=ParameterName=Database Table Name|VariantValue=SSR$
+ParamDesignator472=U36
+ParamVariation473=ParameterName=Description|VariantValue=Relay Ssr 2MA 1.5V Dc-in 0.14A 400V Dc-out 4-PIN DIP SMD T/r
+ParamDesignator473=U36
+ParamVariation474=ParameterName=Designator|VariantValue=U?
+ParamDesignator474=U36
+ParamVariation475=ParameterName=Footprint|VariantValue=SOP254P700X232-4N
+ParamDesignator475=U36
+ParamVariation476=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator476=U36
+ParamVariation477=ParameterName=Library Reference|VariantValue=VOR1142M4
+ParamDesignator477=U36
+ParamVariation478=ParameterName=Manufacturer|VariantValue=Vishay
+ParamDesignator478=U36
+ParamVariation479=ParameterName=On-State Resistance|VariantValue=27R
+ParamDesignator479=U36
+ParamVariation480=ParameterName=Package|VariantValue=SOP-4
+ParamDesignator480=U36
+ParamVariation481=ParameterName=Part Number|VariantValue=VOR1142M4
+ParamDesignator481=U36
+ParamVariation482=ParameterName=PCB3D|VariantValue= 
+ParamDesignator482=U36
+ParamVariation483=ParameterName=Pin Info|VariantValue= 
+ParamDesignator483=U36
+ParamVariation484=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator484=U36
+ParamVariation485=ParameterName=Simulation|VariantValue= 
+ParamDesignator485=U36
+ParamVariation486=ParameterName=Voltage|VariantValue=400V
+ParamDesignator486=U36
+Variation29=Designator=U37|UniqueId=\UUHDRTMG|Kind=2|AlternatePart=VOR1142M4|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\xottal\YandexDisk\Altium projects\Libraries\My_Database_Lib.DbLib/SSR$|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=VOR1142M4|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=My_Database_Lib.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=SSR$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SOP254P700X232-4N|AltLibLink_IsSameFootprint=False
+ParamVariation487=ParameterName=Comment|VariantValue=VOR1142M4
+ParamDesignator487=U37
+ParamVariation488=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator488=U37
+ParamVariation489=ParameterName=Current|VariantValue=140mA
+ParamDesignator489=U37
+ParamVariation490=ParameterName=Database Table Name|VariantValue=SSR$
+ParamDesignator490=U37
+ParamVariation491=ParameterName=Description|VariantValue=Relay Ssr 2MA 1.5V Dc-in 0.14A 400V Dc-out 4-PIN DIP SMD T/r
+ParamDesignator491=U37
+ParamVariation492=ParameterName=Designator|VariantValue=U?
+ParamDesignator492=U37
+ParamVariation493=ParameterName=Footprint|VariantValue=SOP254P700X232-4N
+ParamDesignator493=U37
+ParamVariation494=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator494=U37
+ParamVariation495=ParameterName=Library Reference|VariantValue=VOR1142M4
+ParamDesignator495=U37
+ParamVariation496=ParameterName=Manufacturer|VariantValue=Vishay
+ParamDesignator496=U37
+ParamVariation497=ParameterName=On-State Resistance|VariantValue=27R
+ParamDesignator497=U37
+ParamVariation498=ParameterName=Package|VariantValue=SOP-4
+ParamDesignator498=U37
+ParamVariation499=ParameterName=Part Number|VariantValue=VOR1142M4
+ParamDesignator499=U37
+ParamVariation500=ParameterName=PCB3D|VariantValue= 
+ParamDesignator500=U37
+ParamVariation501=ParameterName=Pin Info|VariantValue= 
+ParamDesignator501=U37
+ParamVariation502=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator502=U37
+ParamVariation503=ParameterName=Simulation|VariantValue= 
+ParamDesignator503=U37
+ParamVariation504=ParameterName=Voltage|VariantValue=400V
+ParamDesignator504=U37
+Variation30=Designator=U38|UniqueId=\JXWLHIBK|Kind=2|AlternatePart=VOR1142M4|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\xottal\YandexDisk\Altium projects\Libraries\My_Database_Lib.DbLib/SSR$|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=VOR1142M4|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=My_Database_Lib.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=SSR$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SOP254P700X232-4N|AltLibLink_IsSameFootprint=False
+ParamVariation505=ParameterName=Comment|VariantValue=VOR1142M4
+ParamDesignator505=U38
+ParamVariation506=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator506=U38
+ParamVariation507=ParameterName=Current|VariantValue=140mA
+ParamDesignator507=U38
+ParamVariation508=ParameterName=Database Table Name|VariantValue=SSR$
+ParamDesignator508=U38
+ParamVariation509=ParameterName=Description|VariantValue=Relay Ssr 2MA 1.5V Dc-in 0.14A 400V Dc-out 4-PIN DIP SMD T/r
+ParamDesignator509=U38
+ParamVariation510=ParameterName=Designator|VariantValue=U?
+ParamDesignator510=U38
+ParamVariation511=ParameterName=Footprint|VariantValue=SOP254P700X232-4N
+ParamDesignator511=U38
+ParamVariation512=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator512=U38
+ParamVariation513=ParameterName=Library Reference|VariantValue=VOR1142M4
+ParamDesignator513=U38
+ParamVariation514=ParameterName=Manufacturer|VariantValue=Vishay
+ParamDesignator514=U38
+ParamVariation515=ParameterName=On-State Resistance|VariantValue=27R
+ParamDesignator515=U38
+ParamVariation516=ParameterName=Package|VariantValue=SOP-4
+ParamDesignator516=U38
+ParamVariation517=ParameterName=Part Number|VariantValue=VOR1142M4
+ParamDesignator517=U38
+ParamVariation518=ParameterName=PCB3D|VariantValue= 
+ParamDesignator518=U38
+ParamVariation519=ParameterName=Pin Info|VariantValue= 
+ParamDesignator519=U38
+ParamVariation520=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator520=U38
+ParamVariation521=ParameterName=Simulation|VariantValue= 
+ParamDesignator521=U38
+ParamVariation522=ParameterName=Voltage|VariantValue=400V
+ParamDesignator522=U38
+Variation31=Designator=U39|UniqueId=\KLKWQSNO|Kind=2|AlternatePart=VOR1142M4|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\xottal\YandexDisk\Altium projects\Libraries\My_Database_Lib.DbLib/SSR$|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=VOR1142M4|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=My_Database_Lib.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=SSR$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SOP254P700X232-4N|AltLibLink_IsSameFootprint=False
+ParamVariation523=ParameterName=Comment|VariantValue=VOR1142M4
+ParamDesignator523=U39
+ParamVariation524=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator524=U39
+ParamVariation525=ParameterName=Current|VariantValue=140mA
+ParamDesignator525=U39
+ParamVariation526=ParameterName=Database Table Name|VariantValue=SSR$
+ParamDesignator526=U39
+ParamVariation527=ParameterName=Description|VariantValue=Relay Ssr 2MA 1.5V Dc-in 0.14A 400V Dc-out 4-PIN DIP SMD T/r
+ParamDesignator527=U39
+ParamVariation528=ParameterName=Designator|VariantValue=U?
+ParamDesignator528=U39
+ParamVariation529=ParameterName=Footprint|VariantValue=SOP254P700X232-4N
+ParamDesignator529=U39
+ParamVariation530=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator530=U39
+ParamVariation531=ParameterName=Library Reference|VariantValue=VOR1142M4
+ParamDesignator531=U39
+ParamVariation532=ParameterName=Manufacturer|VariantValue=Vishay
+ParamDesignator532=U39
+ParamVariation533=ParameterName=On-State Resistance|VariantValue=27R
+ParamDesignator533=U39
+ParamVariation534=ParameterName=Package|VariantValue=SOP-4
+ParamDesignator534=U39
+ParamVariation535=ParameterName=Part Number|VariantValue=VOR1142M4
+ParamDesignator535=U39
+ParamVariation536=ParameterName=PCB3D|VariantValue= 
+ParamDesignator536=U39
+ParamVariation537=ParameterName=Pin Info|VariantValue= 
+ParamDesignator537=U39
+ParamVariation538=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator538=U39
+ParamVariation539=ParameterName=Simulation|VariantValue= 
+ParamDesignator539=U39
+ParamVariation540=ParameterName=Voltage|VariantValue=400V
+ParamDesignator540=U39
+Variation32=Designator=U40|UniqueId=\JMZWCAMZ|Kind=2|AlternatePart=VOR1142M4|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\xottal\YandexDisk\Altium projects\Libraries\My_Database_Lib.DbLib/SSR$|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=VOR1142M4|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=My_Database_Lib.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=SSR$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SOP254P700X232-4N|AltLibLink_IsSameFootprint=False
+ParamVariation541=ParameterName=Comment|VariantValue=VOR1142M4
+ParamDesignator541=U40
+ParamVariation542=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator542=U40
+ParamVariation543=ParameterName=Current|VariantValue=140mA
+ParamDesignator543=U40
+ParamVariation544=ParameterName=Database Table Name|VariantValue=SSR$
+ParamDesignator544=U40
+ParamVariation545=ParameterName=Description|VariantValue=Relay Ssr 2MA 1.5V Dc-in 0.14A 400V Dc-out 4-PIN DIP SMD T/r
+ParamDesignator545=U40
+ParamVariation546=ParameterName=Designator|VariantValue=U?
+ParamDesignator546=U40
+ParamVariation547=ParameterName=Footprint|VariantValue=SOP254P700X232-4N
+ParamDesignator547=U40
+ParamVariation548=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator548=U40
+ParamVariation549=ParameterName=Library Reference|VariantValue=VOR1142M4
+ParamDesignator549=U40
+ParamVariation550=ParameterName=Manufacturer|VariantValue=Vishay
+ParamDesignator550=U40
+ParamVariation551=ParameterName=On-State Resistance|VariantValue=27R
+ParamDesignator551=U40
+ParamVariation552=ParameterName=Package|VariantValue=SOP-4
+ParamDesignator552=U40
+ParamVariation553=ParameterName=Part Number|VariantValue=VOR1142M4
+ParamDesignator553=U40
+ParamVariation554=ParameterName=PCB3D|VariantValue= 
+ParamDesignator554=U40
+ParamVariation555=ParameterName=Pin Info|VariantValue= 
+ParamDesignator555=U40
+ParamVariation556=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator556=U40
+ParamVariation557=ParameterName=Simulation|VariantValue= 
+ParamDesignator557=U40
+ParamVariation558=ParameterName=Voltage|VariantValue=400V
+ParamDesignator558=U40
+Variation33=Designator=U29|UniqueId=\RUBXAKKA|Kind=2|AlternatePart=VOR1142M4|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\xottal\YandexDisk\Altium projects\Libraries\My_Database_Lib.DbLib/SSR$|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=VOR1142M4|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=My_Database_Lib.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=SSR$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SOP254P700X232-4N|AltLibLink_IsSameFootprint=False
+ParamVariation559=ParameterName=Comment|VariantValue=VOR1142M4
+ParamDesignator559=U29
+ParamVariation560=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator560=U29
+ParamVariation561=ParameterName=Current|VariantValue=140mA
+ParamDesignator561=U29
+ParamVariation562=ParameterName=Database Table Name|VariantValue=SSR$
+ParamDesignator562=U29
+ParamVariation563=ParameterName=Description|VariantValue=Relay Ssr 2MA 1.5V Dc-in 0.14A 400V Dc-out 4-PIN DIP SMD T/r
+ParamDesignator563=U29
+ParamVariation564=ParameterName=Designator|VariantValue=U?
+ParamDesignator564=U29
+ParamVariation565=ParameterName=Footprint|VariantValue=SOP254P700X232-4N
+ParamDesignator565=U29
+ParamVariation566=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator566=U29
+ParamVariation567=ParameterName=Library Reference|VariantValue=VOR1142M4
+ParamDesignator567=U29
+ParamVariation568=ParameterName=Manufacturer|VariantValue=Vishay
+ParamDesignator568=U29
+ParamVariation569=ParameterName=On-State Resistance|VariantValue=27R
+ParamDesignator569=U29
+ParamVariation570=ParameterName=Package|VariantValue=SOP-4
+ParamDesignator570=U29
+ParamVariation571=ParameterName=Part Number|VariantValue=VOR1142M4
+ParamDesignator571=U29
+ParamVariation572=ParameterName=PCB3D|VariantValue= 
+ParamDesignator572=U29
+ParamVariation573=ParameterName=Pin Info|VariantValue= 
+ParamDesignator573=U29
+ParamVariation574=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator574=U29
+ParamVariation575=ParameterName=Simulation|VariantValue= 
+ParamDesignator575=U29
+ParamVariation576=ParameterName=Voltage|VariantValue=400V
+ParamDesignator576=U29
+Variation34=Designator=U31|UniqueId=\QNTNHFIV|Kind=2|AlternatePart=VOR1142M4|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\xottal\YandexDisk\Altium projects\Libraries\My_Database_Lib.DbLib/SSR$|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=VOR1142M4|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=My_Database_Lib.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=SSR$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SOP254P700X232-4N|AltLibLink_IsSameFootprint=False
+ParamVariation577=ParameterName=Comment|VariantValue=VOR1142M4
+ParamDesignator577=U31
+ParamVariation578=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator578=U31
+ParamVariation579=ParameterName=Current|VariantValue=140mA
+ParamDesignator579=U31
+ParamVariation580=ParameterName=Database Table Name|VariantValue=SSR$
+ParamDesignator580=U31
+ParamVariation581=ParameterName=Description|VariantValue=Relay Ssr 2MA 1.5V Dc-in 0.14A 400V Dc-out 4-PIN DIP SMD T/r
+ParamDesignator581=U31
+ParamVariation582=ParameterName=Designator|VariantValue=U?
+ParamDesignator582=U31
+ParamVariation583=ParameterName=Footprint|VariantValue=SOP254P700X232-4N
+ParamDesignator583=U31
+ParamVariation584=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator584=U31
+ParamVariation585=ParameterName=Library Reference|VariantValue=VOR1142M4
+ParamDesignator585=U31
+ParamVariation586=ParameterName=Manufacturer|VariantValue=Vishay
+ParamDesignator586=U31
+ParamVariation587=ParameterName=On-State Resistance|VariantValue=27R
+ParamDesignator587=U31
+ParamVariation588=ParameterName=Package|VariantValue=SOP-4
+ParamDesignator588=U31
+ParamVariation589=ParameterName=Part Number|VariantValue=VOR1142M4
+ParamDesignator589=U31
+ParamVariation590=ParameterName=PCB3D|VariantValue= 
+ParamDesignator590=U31
+ParamVariation591=ParameterName=Pin Info|VariantValue= 
+ParamDesignator591=U31
+ParamVariation592=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator592=U31
+ParamVariation593=ParameterName=Simulation|VariantValue= 
+ParamDesignator593=U31
+ParamVariation594=ParameterName=Voltage|VariantValue=400V
+ParamDesignator594=U31
+Variation35=Designator=U28|UniqueId=\NZTBTZLT|Kind=2|AlternatePart=VOR1142M4|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\xottal\YandexDisk\Altium projects\Libraries\My_Database_Lib.DbLib/SSR$|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=VOR1142M4|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=My_Database_Lib.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=SSR$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SOP254P700X232-4N|AltLibLink_IsSameFootprint=False
+ParamVariation595=ParameterName=Comment|VariantValue=VOR1142M4
+ParamDesignator595=U28
+ParamVariation596=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator596=U28
+ParamVariation597=ParameterName=Current|VariantValue=140mA
+ParamDesignator597=U28
+ParamVariation598=ParameterName=Database Table Name|VariantValue=SSR$
+ParamDesignator598=U28
+ParamVariation599=ParameterName=Description|VariantValue=Relay Ssr 2MA 1.5V Dc-in 0.14A 400V Dc-out 4-PIN DIP SMD T/r
+ParamDesignator599=U28
+ParamVariation600=ParameterName=Designator|VariantValue=U?
+ParamDesignator600=U28
+ParamVariation601=ParameterName=Footprint|VariantValue=SOP254P700X232-4N
+ParamDesignator601=U28
+ParamVariation602=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator602=U28
+ParamVariation603=ParameterName=Library Reference|VariantValue=VOR1142M4
+ParamDesignator603=U28
+ParamVariation604=ParameterName=Manufacturer|VariantValue=Vishay
+ParamDesignator604=U28
+ParamVariation605=ParameterName=On-State Resistance|VariantValue=27R
+ParamDesignator605=U28
+ParamVariation606=ParameterName=Package|VariantValue=SOP-4
+ParamDesignator606=U28
+ParamVariation607=ParameterName=Part Number|VariantValue=VOR1142M4
+ParamDesignator607=U28
+ParamVariation608=ParameterName=PCB3D|VariantValue= 
+ParamDesignator608=U28
+ParamVariation609=ParameterName=Pin Info|VariantValue= 
+ParamDesignator609=U28
+ParamVariation610=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator610=U28
+ParamVariation611=ParameterName=Simulation|VariantValue= 
+ParamDesignator611=U28
+ParamVariation612=ParameterName=Voltage|VariantValue=400V
+ParamDesignator612=U28
+Variation36=Designator=U30|UniqueId=\QJJSARTM|Kind=2|AlternatePart=VOR1142M4|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\xottal\YandexDisk\Altium projects\Libraries\My_Database_Lib.DbLib/SSR$|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=VOR1142M4|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=My_Database_Lib.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=SSR$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SOP254P700X232-4N|AltLibLink_IsSameFootprint=False
+ParamVariation613=ParameterName=Comment|VariantValue=VOR1142M4
+ParamDesignator613=U30
+ParamVariation614=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator614=U30
+ParamVariation615=ParameterName=Current|VariantValue=140mA
+ParamDesignator615=U30
+ParamVariation616=ParameterName=Database Table Name|VariantValue=SSR$
+ParamDesignator616=U30
+ParamVariation617=ParameterName=Description|VariantValue=Relay Ssr 2MA 1.5V Dc-in 0.14A 400V Dc-out 4-PIN DIP SMD T/r
+ParamDesignator617=U30
+ParamVariation618=ParameterName=Designator|VariantValue=U?
+ParamDesignator618=U30
+ParamVariation619=ParameterName=Footprint|VariantValue=SOP254P700X232-4N
+ParamDesignator619=U30
+ParamVariation620=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator620=U30
+ParamVariation621=ParameterName=Library Reference|VariantValue=VOR1142M4
+ParamDesignator621=U30
+ParamVariation622=ParameterName=Manufacturer|VariantValue=Vishay
+ParamDesignator622=U30
+ParamVariation623=ParameterName=On-State Resistance|VariantValue=27R
+ParamDesignator623=U30
+ParamVariation624=ParameterName=Package|VariantValue=SOP-4
+ParamDesignator624=U30
+ParamVariation625=ParameterName=Part Number|VariantValue=VOR1142M4
+ParamDesignator625=U30
+ParamVariation626=ParameterName=PCB3D|VariantValue= 
+ParamDesignator626=U30
+ParamVariation627=ParameterName=Pin Info|VariantValue= 
+ParamDesignator627=U30
+ParamVariation628=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator628=U30
+ParamVariation629=ParameterName=Simulation|VariantValue= 
+ParamDesignator629=U30
+ParamVariation630=ParameterName=Voltage|VariantValue=400V
+ParamDesignator630=U30
+Variation37=Designator=U27|UniqueId=\PIOFJWES|Kind=2|AlternatePart=VOR1142M4|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\xottal\YandexDisk\Altium projects\Libraries\My_Database_Lib.DbLib/SSR$|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=VOR1142M4|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=My_Database_Lib.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=SSR$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SOP254P700X232-4N|AltLibLink_IsSameFootprint=False
+ParamVariation631=ParameterName=Comment|VariantValue=VOR1142M4
+ParamDesignator631=U27
+ParamVariation632=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator632=U27
+ParamVariation633=ParameterName=Current|VariantValue=140mA
+ParamDesignator633=U27
+ParamVariation634=ParameterName=Database Table Name|VariantValue=SSR$
+ParamDesignator634=U27
+ParamVariation635=ParameterName=Description|VariantValue=Relay Ssr 2MA 1.5V Dc-in 0.14A 400V Dc-out 4-PIN DIP SMD T/r
+ParamDesignator635=U27
+ParamVariation636=ParameterName=Designator|VariantValue=U?
+ParamDesignator636=U27
+ParamVariation637=ParameterName=Footprint|VariantValue=SOP254P700X232-4N
+ParamDesignator637=U27
+ParamVariation638=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator638=U27
+ParamVariation639=ParameterName=Library Reference|VariantValue=VOR1142M4
+ParamDesignator639=U27
+ParamVariation640=ParameterName=Manufacturer|VariantValue=Vishay
+ParamDesignator640=U27
+ParamVariation641=ParameterName=On-State Resistance|VariantValue=27R
+ParamDesignator641=U27
+ParamVariation642=ParameterName=Package|VariantValue=SOP-4
+ParamDesignator642=U27
+ParamVariation643=ParameterName=Part Number|VariantValue=VOR1142M4
+ParamDesignator643=U27
+ParamVariation644=ParameterName=PCB3D|VariantValue= 
+ParamDesignator644=U27
+ParamVariation645=ParameterName=Pin Info|VariantValue= 
+ParamDesignator645=U27
+ParamVariation646=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator646=U27
+ParamVariation647=ParameterName=Simulation|VariantValue= 
+ParamDesignator647=U27
+ParamVariation648=ParameterName=Voltage|VariantValue=400V
+ParamDesignator648=U27
+Variation38=Designator=U17|UniqueId=\XPKUMXDZ|Kind=2|AlternatePart=VOR1142M4|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\xottal\YandexDisk\Altium projects\Libraries\My_Database_Lib.DbLib/SSR$|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=VOR1142M4|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=My_Database_Lib.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=SSR$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SOP254P700X232-4N|AltLibLink_IsSameFootprint=False
+ParamVariation649=ParameterName=Comment|VariantValue=VOR1142M4
+ParamDesignator649=U17
+ParamVariation650=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator650=U17
+ParamVariation651=ParameterName=Current|VariantValue=140mA
+ParamDesignator651=U17
+ParamVariation652=ParameterName=Database Table Name|VariantValue=SSR$
+ParamDesignator652=U17
+ParamVariation653=ParameterName=Description|VariantValue=Relay Ssr 2MA 1.5V Dc-in 0.14A 400V Dc-out 4-PIN DIP SMD T/r
+ParamDesignator653=U17
+ParamVariation654=ParameterName=Designator|VariantValue=U?
+ParamDesignator654=U17
+ParamVariation655=ParameterName=Footprint|VariantValue=SOP254P700X232-4N
+ParamDesignator655=U17
+ParamVariation656=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator656=U17
+ParamVariation657=ParameterName=Library Reference|VariantValue=VOR1142M4
+ParamDesignator657=U17
+ParamVariation658=ParameterName=Manufacturer|VariantValue=Vishay
+ParamDesignator658=U17
+ParamVariation659=ParameterName=On-State Resistance|VariantValue=27R
+ParamDesignator659=U17
+ParamVariation660=ParameterName=Package|VariantValue=SOP-4
+ParamDesignator660=U17
+ParamVariation661=ParameterName=Part Number|VariantValue=VOR1142M4
+ParamDesignator661=U17
+ParamVariation662=ParameterName=PCB3D|VariantValue= 
+ParamDesignator662=U17
+ParamVariation663=ParameterName=Pin Info|VariantValue= 
+ParamDesignator663=U17
+ParamVariation664=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator664=U17
+ParamVariation665=ParameterName=Simulation|VariantValue= 
+ParamDesignator665=U17
+ParamVariation666=ParameterName=Voltage|VariantValue=400V
+ParamDesignator666=U17
+Variation39=Designator=U18|UniqueId=\XSONCPOD|Kind=2|AlternatePart=VOR1142M4|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\xottal\YandexDisk\Altium projects\Libraries\My_Database_Lib.DbLib/SSR$|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=VOR1142M4|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=My_Database_Lib.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=SSR$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SOP254P700X232-4N|AltLibLink_IsSameFootprint=False
+ParamVariation667=ParameterName=Comment|VariantValue=VOR1142M4
+ParamDesignator667=U18
+ParamVariation668=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator668=U18
+ParamVariation669=ParameterName=Current|VariantValue=140mA
+ParamDesignator669=U18
+ParamVariation670=ParameterName=Database Table Name|VariantValue=SSR$
+ParamDesignator670=U18
+ParamVariation671=ParameterName=Description|VariantValue=Relay Ssr 2MA 1.5V Dc-in 0.14A 400V Dc-out 4-PIN DIP SMD T/r
+ParamDesignator671=U18
+ParamVariation672=ParameterName=Designator|VariantValue=U?
+ParamDesignator672=U18
+ParamVariation673=ParameterName=Footprint|VariantValue=SOP254P700X232-4N
+ParamDesignator673=U18
+ParamVariation674=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator674=U18
+ParamVariation675=ParameterName=Library Reference|VariantValue=VOR1142M4
+ParamDesignator675=U18
+ParamVariation676=ParameterName=Manufacturer|VariantValue=Vishay
+ParamDesignator676=U18
+ParamVariation677=ParameterName=On-State Resistance|VariantValue=27R
+ParamDesignator677=U18
+ParamVariation678=ParameterName=Package|VariantValue=SOP-4
+ParamDesignator678=U18
+ParamVariation679=ParameterName=Part Number|VariantValue=VOR1142M4
+ParamDesignator679=U18
+ParamVariation680=ParameterName=PCB3D|VariantValue= 
+ParamDesignator680=U18
+ParamVariation681=ParameterName=Pin Info|VariantValue= 
+ParamDesignator681=U18
+ParamVariation682=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator682=U18
+ParamVariation683=ParameterName=Simulation|VariantValue= 
+ParamDesignator683=U18
+ParamVariation684=ParameterName=Voltage|VariantValue=400V
+ParamDesignator684=U18
+Variation40=Designator=U19|UniqueId=\QTCJZIMK|Kind=2|AlternatePart=VOR1142M4|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\xottal\YandexDisk\Altium projects\Libraries\My_Database_Lib.DbLib/SSR$|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=VOR1142M4|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=My_Database_Lib.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=SSR$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SOP254P700X232-4N|AltLibLink_IsSameFootprint=False
+ParamVariation685=ParameterName=Comment|VariantValue=VOR1142M4
+ParamDesignator685=U19
+ParamVariation686=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator686=U19
+ParamVariation687=ParameterName=Current|VariantValue=140mA
+ParamDesignator687=U19
+ParamVariation688=ParameterName=Database Table Name|VariantValue=SSR$
+ParamDesignator688=U19
+ParamVariation689=ParameterName=Description|VariantValue=Relay Ssr 2MA 1.5V Dc-in 0.14A 400V Dc-out 4-PIN DIP SMD T/r
+ParamDesignator689=U19
+ParamVariation690=ParameterName=Designator|VariantValue=U?
+ParamDesignator690=U19
+ParamVariation691=ParameterName=Footprint|VariantValue=SOP254P700X232-4N
+ParamDesignator691=U19
+ParamVariation692=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator692=U19
+ParamVariation693=ParameterName=Library Reference|VariantValue=VOR1142M4
+ParamDesignator693=U19
+ParamVariation694=ParameterName=Manufacturer|VariantValue=Vishay
+ParamDesignator694=U19
+ParamVariation695=ParameterName=On-State Resistance|VariantValue=27R
+ParamDesignator695=U19
+ParamVariation696=ParameterName=Package|VariantValue=SOP-4
+ParamDesignator696=U19
+ParamVariation697=ParameterName=Part Number|VariantValue=VOR1142M4
+ParamDesignator697=U19
+ParamVariation698=ParameterName=PCB3D|VariantValue= 
+ParamDesignator698=U19
+ParamVariation699=ParameterName=Pin Info|VariantValue= 
+ParamDesignator699=U19
+ParamVariation700=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator700=U19
+ParamVariation701=ParameterName=Simulation|VariantValue= 
+ParamDesignator701=U19
+ParamVariation702=ParameterName=Voltage|VariantValue=400V
+ParamDesignator702=U19
+Variation41=Designator=U20|UniqueId=\NTEYEVMH|Kind=2|AlternatePart=VOR1142M4|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\xottal\YandexDisk\Altium projects\Libraries\My_Database_Lib.DbLib/SSR$|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=VOR1142M4|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=My_Database_Lib.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=SSR$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SOP254P700X232-4N|AltLibLink_IsSameFootprint=False
+ParamVariation703=ParameterName=Comment|VariantValue=VOR1142M4
+ParamDesignator703=U20
+ParamVariation704=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator704=U20
+ParamVariation705=ParameterName=Current|VariantValue=140mA
+ParamDesignator705=U20
+ParamVariation706=ParameterName=Database Table Name|VariantValue=SSR$
+ParamDesignator706=U20
+ParamVariation707=ParameterName=Description|VariantValue=Relay Ssr 2MA 1.5V Dc-in 0.14A 400V Dc-out 4-PIN DIP SMD T/r
+ParamDesignator707=U20
+ParamVariation708=ParameterName=Designator|VariantValue=U?
+ParamDesignator708=U20
+ParamVariation709=ParameterName=Footprint|VariantValue=SOP254P700X232-4N
+ParamDesignator709=U20
+ParamVariation710=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator710=U20
+ParamVariation711=ParameterName=Library Reference|VariantValue=VOR1142M4
+ParamDesignator711=U20
+ParamVariation712=ParameterName=Manufacturer|VariantValue=Vishay
+ParamDesignator712=U20
+ParamVariation713=ParameterName=On-State Resistance|VariantValue=27R
+ParamDesignator713=U20
+ParamVariation714=ParameterName=Package|VariantValue=SOP-4
+ParamDesignator714=U20
+ParamVariation715=ParameterName=Part Number|VariantValue=VOR1142M4
+ParamDesignator715=U20
+ParamVariation716=ParameterName=PCB3D|VariantValue= 
+ParamDesignator716=U20
+ParamVariation717=ParameterName=Pin Info|VariantValue= 
+ParamDesignator717=U20
+ParamVariation718=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator718=U20
+ParamVariation719=ParameterName=Simulation|VariantValue= 
+ParamDesignator719=U20
+ParamVariation720=ParameterName=Voltage|VariantValue=400V
+ParamDesignator720=U20
+Variation42=Designator=U21|UniqueId=\KCRUUYFW|Kind=2|AlternatePart=VOR1142M4|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\xottal\YandexDisk\Altium projects\Libraries\My_Database_Lib.DbLib/SSR$|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=VOR1142M4|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=My_Database_Lib.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=SSR$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SOP254P700X232-4N|AltLibLink_IsSameFootprint=False
+ParamVariation721=ParameterName=Comment|VariantValue=VOR1142M4
+ParamDesignator721=U21
+ParamVariation722=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator722=U21
+ParamVariation723=ParameterName=Current|VariantValue=140mA
+ParamDesignator723=U21
+ParamVariation724=ParameterName=Database Table Name|VariantValue=SSR$
+ParamDesignator724=U21
+ParamVariation725=ParameterName=Description|VariantValue=Relay Ssr 2MA 1.5V Dc-in 0.14A 400V Dc-out 4-PIN DIP SMD T/r
+ParamDesignator725=U21
+ParamVariation726=ParameterName=Designator|VariantValue=U?
+ParamDesignator726=U21
+ParamVariation727=ParameterName=Footprint|VariantValue=SOP254P700X232-4N
+ParamDesignator727=U21
+ParamVariation728=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator728=U21
+ParamVariation729=ParameterName=Library Reference|VariantValue=VOR1142M4
+ParamDesignator729=U21
+ParamVariation730=ParameterName=Manufacturer|VariantValue=Vishay
+ParamDesignator730=U21
+ParamVariation731=ParameterName=On-State Resistance|VariantValue=27R
+ParamDesignator731=U21
+ParamVariation732=ParameterName=Package|VariantValue=SOP-4
+ParamDesignator732=U21
+ParamVariation733=ParameterName=Part Number|VariantValue=VOR1142M4
+ParamDesignator733=U21
+ParamVariation734=ParameterName=PCB3D|VariantValue= 
+ParamDesignator734=U21
+ParamVariation735=ParameterName=Pin Info|VariantValue= 
+ParamDesignator735=U21
+ParamVariation736=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator736=U21
+ParamVariation737=ParameterName=Simulation|VariantValue= 
+ParamDesignator737=U21
+ParamVariation738=ParameterName=Voltage|VariantValue=400V
+ParamDesignator738=U21
+Variation43=Designator=U22|UniqueId=\PACBBGBB|Kind=2|AlternatePart=VOR1142M4|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\xottal\YandexDisk\Altium projects\Libraries\My_Database_Lib.DbLib/SSR$|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=VOR1142M4|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=My_Database_Lib.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=SSR$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SOP254P700X232-4N|AltLibLink_IsSameFootprint=False
+ParamVariation739=ParameterName=Comment|VariantValue=VOR1142M4
+ParamDesignator739=U22
+ParamVariation740=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator740=U22
+ParamVariation741=ParameterName=Current|VariantValue=140mA
+ParamDesignator741=U22
+ParamVariation742=ParameterName=Database Table Name|VariantValue=SSR$
+ParamDesignator742=U22
+ParamVariation743=ParameterName=Description|VariantValue=Relay Ssr 2MA 1.5V Dc-in 0.14A 400V Dc-out 4-PIN DIP SMD T/r
+ParamDesignator743=U22
+ParamVariation744=ParameterName=Designator|VariantValue=U?
+ParamDesignator744=U22
+ParamVariation745=ParameterName=Footprint|VariantValue=SOP254P700X232-4N
+ParamDesignator745=U22
+ParamVariation746=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator746=U22
+ParamVariation747=ParameterName=Library Reference|VariantValue=VOR1142M4
+ParamDesignator747=U22
+ParamVariation748=ParameterName=Manufacturer|VariantValue=Vishay
+ParamDesignator748=U22
+ParamVariation749=ParameterName=On-State Resistance|VariantValue=27R
+ParamDesignator749=U22
+ParamVariation750=ParameterName=Package|VariantValue=SOP-4
+ParamDesignator750=U22
+ParamVariation751=ParameterName=Part Number|VariantValue=VOR1142M4
+ParamDesignator751=U22
+ParamVariation752=ParameterName=PCB3D|VariantValue= 
+ParamDesignator752=U22
+ParamVariation753=ParameterName=Pin Info|VariantValue= 
+ParamDesignator753=U22
+ParamVariation754=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator754=U22
+ParamVariation755=ParameterName=Simulation|VariantValue= 
+ParamDesignator755=U22
+ParamVariation756=ParameterName=Voltage|VariantValue=400V
+ParamDesignator756=U22
+Variation44=Designator=U23|UniqueId=\BIGECGXI|Kind=2|AlternatePart=VOR1142M4|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\xottal\YandexDisk\Altium projects\Libraries\My_Database_Lib.DbLib/SSR$|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=VOR1142M4|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=My_Database_Lib.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=SSR$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SOP254P700X232-4N|AltLibLink_IsSameFootprint=False
+ParamVariation757=ParameterName=Comment|VariantValue=VOR1142M4
+ParamDesignator757=U23
+ParamVariation758=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator758=U23
+ParamVariation759=ParameterName=Current|VariantValue=140mA
+ParamDesignator759=U23
+ParamVariation760=ParameterName=Database Table Name|VariantValue=SSR$
+ParamDesignator760=U23
+ParamVariation761=ParameterName=Description|VariantValue=Relay Ssr 2MA 1.5V Dc-in 0.14A 400V Dc-out 4-PIN DIP SMD T/r
+ParamDesignator761=U23
+ParamVariation762=ParameterName=Designator|VariantValue=U?
+ParamDesignator762=U23
+ParamVariation763=ParameterName=Footprint|VariantValue=SOP254P700X232-4N
+ParamDesignator763=U23
+ParamVariation764=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator764=U23
+ParamVariation765=ParameterName=Library Reference|VariantValue=VOR1142M4
+ParamDesignator765=U23
+ParamVariation766=ParameterName=Manufacturer|VariantValue=Vishay
+ParamDesignator766=U23
+ParamVariation767=ParameterName=On-State Resistance|VariantValue=27R
+ParamDesignator767=U23
+ParamVariation768=ParameterName=Package|VariantValue=SOP-4
+ParamDesignator768=U23
+ParamVariation769=ParameterName=Part Number|VariantValue=VOR1142M4
+ParamDesignator769=U23
+ParamVariation770=ParameterName=PCB3D|VariantValue= 
+ParamDesignator770=U23
+ParamVariation771=ParameterName=Pin Info|VariantValue= 
+ParamDesignator771=U23
+ParamVariation772=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator772=U23
+ParamVariation773=ParameterName=Simulation|VariantValue= 
+ParamDesignator773=U23
+ParamVariation774=ParameterName=Voltage|VariantValue=400V
+ParamDesignator774=U23
+Variation45=Designator=U24|UniqueId=\MYRACZCY|Kind=2|AlternatePart=VOR1142M4|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\xottal\YandexDisk\Altium projects\Libraries\My_Database_Lib.DbLib/SSR$|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=VOR1142M4|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=My_Database_Lib.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=SSR$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SOP254P700X232-4N|AltLibLink_IsSameFootprint=False
+ParamVariation775=ParameterName=Comment|VariantValue=VOR1142M4
+ParamDesignator775=U24
+ParamVariation776=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator776=U24
+ParamVariation777=ParameterName=Current|VariantValue=140mA
+ParamDesignator777=U24
+ParamVariation778=ParameterName=Database Table Name|VariantValue=SSR$
+ParamDesignator778=U24
+ParamVariation779=ParameterName=Description|VariantValue=Relay Ssr 2MA 1.5V Dc-in 0.14A 400V Dc-out 4-PIN DIP SMD T/r
+ParamDesignator779=U24
+ParamVariation780=ParameterName=Designator|VariantValue=U?
+ParamDesignator780=U24
+ParamVariation781=ParameterName=Footprint|VariantValue=SOP254P700X232-4N
+ParamDesignator781=U24
+ParamVariation782=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator782=U24
+ParamVariation783=ParameterName=Library Reference|VariantValue=VOR1142M4
+ParamDesignator783=U24
+ParamVariation784=ParameterName=Manufacturer|VariantValue=Vishay
+ParamDesignator784=U24
+ParamVariation785=ParameterName=On-State Resistance|VariantValue=27R
+ParamDesignator785=U24
+ParamVariation786=ParameterName=Package|VariantValue=SOP-4
+ParamDesignator786=U24
+ParamVariation787=ParameterName=Part Number|VariantValue=VOR1142M4
+ParamDesignator787=U24
+ParamVariation788=ParameterName=PCB3D|VariantValue= 
+ParamDesignator788=U24
+ParamVariation789=ParameterName=Pin Info|VariantValue= 
+ParamDesignator789=U24
+ParamVariation790=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator790=U24
+ParamVariation791=ParameterName=Simulation|VariantValue= 
+ParamDesignator791=U24
+ParamVariation792=ParameterName=Voltage|VariantValue=400V
+ParamDesignator792=U24
+ParamVariationCount=792
+
+[Parameter3_1]
+Name=Variant
+Value=2001-TCSCAN
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for DMM6500 Scan card\Design Rule Check - DMM6500 Scan card.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for DMM6500 Scan card\NC Drill\PCB1.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for DMM6500 Scan card\NC Drill\PCB1.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for DMM6500 Scan card\NC Drill\PCB1.TXT
+DItemRevisionGUID=
+
+[Configuration1]
+Name=Sources
+ParameterCount=0
+ConstraintFileCount=0
+ReleaseItemId=
+Variant=[No Variations]
+OutputJobsCount=0
+ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
+ConfigurationType=Source
+
+[Generic_EDE]
+OutputDir=Project Outputs for DMM6500 Scan card
+
+[OutputGroup1]
+Name=Netlist Outputs
+Description=
+TargetPrinter=Adobe PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=CadnetixNetlist
+OutputName1=Cadnetix Netlist
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+OutputType2=CalayNetlist
+OutputName2=Calay Netlist
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+OutputType3=EDIF
+OutputName3=EDIF for PCB
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+OutputType4=EESofNetlist
+OutputName4=EESof Netlist
+OutputDocumentPath4=
+OutputVariantName4=
+OutputDefault4=0
+OutputType5=IntergraphNetlist
+OutputName5=Intergraph Netlist
+OutputDocumentPath5=
+OutputVariantName5=
+OutputDefault5=0
+OutputType6=MentorBoardStationNetlist
+OutputName6=Mentor BoardStation Netlist
+OutputDocumentPath6=
+OutputVariantName6=
+OutputDefault6=0
+OutputType7=MultiWire
+OutputName7=MultiWire
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
+OutputType8=OrCadPCB2Netlist
+OutputName8=Orcad/PCB2 Netlist
+OutputDocumentPath8=
+OutputVariantName8=
+OutputDefault8=0
+OutputType9=PADSNetlist
+OutputName9=PADS ASCII Netlist
+OutputDocumentPath9=
+OutputVariantName9=
+OutputDefault9=0
+OutputType10=Pcad
+OutputName10=Pcad for PCB
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+OutputType11=PCADNetlist
+OutputName11=PCAD Netlist
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+OutputType12=PCADnltNetlist
+OutputName12=PCADnlt Netlist
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=Protel2Netlist
+OutputName13=Protel2 Netlist
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=ProtelNetlist
+OutputName14=Protel
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=RacalNetlist
+OutputName15=Racal Netlist
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=RINFNetlist
+OutputName16=RINF Netlist
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=SciCardsNetlist
+OutputName17=SciCards Netlist
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
+OutputType18=TangoNetlist
+OutputName18=Tango Netlist
+OutputDocumentPath18=
+OutputVariantName18=
+OutputDefault18=0
+OutputType19=TelesisNetlist
+OutputName19=Telesis Netlist
+OutputDocumentPath19=
+OutputVariantName19=
+OutputDefault19=0
+OutputType20=WireListNetlist
+OutputName20=WireList Netlist
+OutputDocumentPath20=
+OutputVariantName20=
+OutputDefault20=0
+OutputType21=XSpiceNetlist
+OutputName21=Mixed Sim Netlist
+OutputDocumentPath21=
+OutputVariantName21=
+OutputDefault21=0
+
+[OutputGroup2]
+Name=Simulator Outputs
+Description=
+TargetPrinter=Adobe PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=AdvSimNetlist
+OutputName1=Mixed Sim
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+
+[OutputGroup3]
+Name=Documentation Outputs
+Description=
+TargetPrinter=Virtual Printer
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Composite
+OutputName1=Composite Drawing
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType2=PCB 3D Print
+OutputName2=PCB 3D Print
+OutputDocumentPath2=
+OutputVariantName2=[No Variations]
+OutputDefault2=0
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType3=PCB 3D Video
+OutputName3=PCB 3D Video
+OutputDocumentPath3=
+OutputVariantName3=[No Variations]
+OutputDefault3=0
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType4=PCB Print
+OutputName4=PCB Prints
+OutputDocumentPath4=
+OutputVariantName4=
+OutputDefault4=0
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType5=PCBDrawing
+OutputName5=Draftsman
+OutputDocumentPath5=
+OutputVariantName5=[No Variations]
+OutputDefault5=0
+PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType6=PCBLIB Print
+OutputName6=PCBLIB Prints
+OutputDocumentPath6=
+OutputVariantName6=
+OutputDefault6=0
+PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType7=PDF3D
+OutputName7=PDF3D
+OutputDocumentPath7=
+OutputVariantName7=[No Variations]
+OutputDefault7=0
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType8=PDF3D MBA
+OutputName8=PDF3D MBA
+OutputDocumentPath8=
+OutputVariantName8=
+OutputDefault8=0
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType9=Report Print
+OutputName9=Report Prints
+OutputDocumentPath9=
+OutputVariantName9=
+OutputDefault9=0
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType10=Schematic Print
+OutputName10=Schematic Prints
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType11=SimView Print
+OutputName11=SimView Prints
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+
+[OutputGroup4]
+Name=Assembly Outputs
+Description=
+TargetPrinter=Adobe PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Assembly
+OutputName1=Assembly Drawings
+OutputDocumentPath1=
+OutputVariantName1=[No Variations]
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType2=Pick Place
+OutputName2=Generates pick and place files
+OutputDocumentPath2=
+OutputVariantName2=[No Variations]
+OutputDefault2=0
+OutputType3=Test Points For Assembly
+OutputName3=Test Point Report
+OutputDocumentPath3=
+OutputVariantName3=[No Variations]
+OutputDefault3=0
+
+[OutputGroup5]
+Name=Fabrication Outputs
+Description=
+TargetPrinter=Adobe PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Board Stack Report
+OutputName1=Report Board Stack
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType2=CompositeDrill
+OutputName2=Composite Drill Drawing
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType3=Drill
+OutputName3=Drill Drawing/Guides
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType4=Final
+OutputName4=Final Artwork Prints
+OutputDocumentPath4=
+OutputVariantName4=[No Variations]
+OutputDefault4=0
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType5=Gerber
+OutputName5=Gerber Files
+OutputDocumentPath5=
+OutputVariantName5=[No Variations]
+OutputDefault5=0
+OutputType6=Gerber X2
+OutputName6=Gerber X2 Files
+OutputDocumentPath6=
+OutputVariantName6=
+OutputDefault6=0
+OutputType7=IPC2581
+OutputName7=IPC-2581 Files
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
+OutputType8=Mask
+OutputName8=Solder/Paste Mask Prints
+OutputDocumentPath8=
+OutputVariantName8=
+OutputDefault8=0
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType9=NC Drill
+OutputName9=NC Drill Files
+OutputDocumentPath9=
+OutputVariantName9=
+OutputDefault9=0
+OutputType10=ODB
+OutputName10=ODB++ Files
+OutputDocumentPath10=
+OutputVariantName10=[No Variations]
+OutputDefault10=0
+OutputType11=Plane
+OutputName11=Power-Plane Prints
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType12=Test Points
+OutputName12=Test Point Report
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+
+[OutputGroup6]
+Name=Report Outputs
+Description=
+TargetPrinter=Adobe PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=BOM_PartType
+OutputName1=Bill of Materials
+OutputDocumentPath1=
+OutputVariantName1=[No Variations]
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType2=BOM_ReportCompare
+OutputName2=BOM Compare
+OutputDocumentPath2=
+OutputVariantName2=[No Variations]
+OutputDefault2=0
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType3=ComponentCrossReference
+OutputName3=Component Cross Reference Report
+OutputDocumentPath3=
+OutputVariantName3=[No Variations]
+OutputDefault3=0
+OutputType4=Export Comments
+OutputName4=Export Comments
+OutputDocumentPath4=
+OutputVariantName4=[No Variations]
+OutputDefault4=0
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType5=ReportHierarchy
+OutputName5=Report Project Hierarchy
+OutputDocumentPath5=
+OutputVariantName5=[No Variations]
+OutputDefault5=0
+OutputType6=Script
+OutputName6=Script Output
+OutputDocumentPath6=
+OutputVariantName6=[No Variations]
+OutputDefault6=0
+OutputType7=SimpleBOM
+OutputName7=Simple BOM
+OutputDocumentPath7=
+OutputVariantName7=[No Variations]
+OutputDefault7=0
+OutputType8=SinglePinNetReporter
+OutputName8=Report Single Pin Nets
+OutputDocumentPath8=
+OutputVariantName8=[No Variations]
+OutputDefault8=0
+
+[OutputGroup7]
+Name=Other Outputs
+Description=
+TargetPrinter=Adobe PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Text Print
+OutputName1=Text Print
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType2=Text Print
+OutputName2=Text Print
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType3=Text Print
+OutputName3=Text Print
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType4=Text Print
+OutputName4=Text Print
+OutputDocumentPath4=
+OutputVariantName4=
+OutputDefault4=0
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType5=Text Print
+OutputName5=Text Print
+OutputDocumentPath5=
+OutputVariantName5=
+OutputDefault5=0
+PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType6=Text Print
+OutputName6=Text Print
+OutputDocumentPath6=
+OutputVariantName6=
+OutputDefault6=0
+PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType7=Text Print
+OutputName7=Text Print
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType8=Text Print
+OutputName8=Text Print
+OutputDocumentPath8=
+OutputVariantName8=
+OutputDefault8=0
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType9=Text Print
+OutputName9=Text Print
+OutputDocumentPath9=
+OutputVariantName9=
+OutputDefault9=0
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType10=Text Print
+OutputName10=Text Print
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType11=Text Print
+OutputName11=Text Print
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType12=Text Print
+OutputName12=Text Print
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType13=Text Print
+OutputName13=Text Print
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType14=Text Print
+OutputName14=Text Print
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+PageOptions14=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType15=Text Print
+OutputName15=Text Print
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+PageOptions15=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType16=Text Print
+OutputName16=Text Print
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+PageOptions16=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType17=Text Print
+OutputName17=Text Print
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
+PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+
+[OutputGroup8]
+Name=Validation Outputs
+Description=
+TargetPrinter=Adobe PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=BOM_Violations
+OutputName1=BOM Checks Report
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+OutputType2=Component states check
+OutputName2=Server's components states check
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+OutputType3=Configuration compliance
+OutputName3=Environment configuration compliance check
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+OutputType4=Design Rules Check
+OutputName4=Design Rules Check
+OutputDocumentPath4=
+OutputVariantName4=
+OutputDefault4=0
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType5=Differences Report
+OutputName5=Differences Report
+OutputDocumentPath5=
+OutputVariantName5=
+OutputDefault5=0
+PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType6=Electrical Rules Check
+OutputName6=Electrical Rules Check
+OutputDocumentPath6=
+OutputVariantName6=
+OutputDefault6=0
+PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType7=Footprint Comparison Report
+OutputName7=Footprint Comparison Report
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
+
+[OutputGroup9]
+Name=Export Outputs
+Description=
+TargetPrinter=Adobe PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=AutoCAD dwg/dxf PCB
+OutputName1=AutoCAD dwg/dxf File PCB
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+OutputType2=AutoCAD dwg/dxf Schematic
+OutputName2=AutoCAD dwg/dxf File Schematic
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+OutputType3=ExportIDF
+OutputName3=Export IDF
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+OutputType4=ExportPARASOLID
+OutputName4=Export PARASOLID
+OutputDocumentPath4=
+OutputVariantName4=[No Variations]
+OutputDefault4=0
+OutputType5=ExportSTEP
+OutputName5=Export STEP
+OutputDocumentPath5=
+OutputVariantName5=[No Variations]
+OutputDefault5=0
+OutputType6=ExportVRML
+OutputName6=Export VRML
+OutputDocumentPath6=
+OutputVariantName6=[No Variations]
+OutputDefault6=0
+OutputType7=MBAExportPARASOLID
+OutputName7=Export PARASOLID
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
+OutputType8=MBAExportSTEP
+OutputName8=Export STEP
+OutputDocumentPath8=
+OutputVariantName8=
+OutputDefault8=0
+OutputType9=Save As/Export PCB
+OutputName9=Save As/Export PCB
+OutputDocumentPath9=
+OutputVariantName9=
+OutputDefault9=0
+OutputType10=Save As/Export Schematic
+OutputName10=Save As/Export Schematic
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+OutputType11=Specctra Design PCB
+OutputName11=Specctra Design PCB
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+
+[OutputGroup10]
+Name=PostProcess Outputs
+Description=
+TargetPrinter=Adobe PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Copy Files
+OutputName1=Copy Files
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+
+[Modification Levels]
+Type1=1
+Type2=1
+Type3=1
+Type4=1
+Type5=1
+Type6=1
+Type7=1
+Type8=1
+Type9=1
+Type10=1
+Type11=1
+Type12=1
+Type13=1
+Type14=1
+Type15=1
+Type16=1
+Type17=1
+Type18=1
+Type19=1
+Type20=1
+Type21=1
+Type22=1
+Type23=1
+Type24=1
+Type25=1
+Type26=1
+Type27=1
+Type28=1
+Type29=1
+Type30=1
+Type31=1
+Type32=1
+Type33=1
+Type34=1
+Type35=1
+Type36=1
+Type37=1
+Type38=1
+Type39=1
+Type40=1
+Type41=1
+Type42=1
+Type43=1
+Type44=1
+Type45=1
+Type46=1
+Type47=1
+Type48=1
+Type49=1
+Type50=1
+Type51=1
+Type52=1
+Type53=1
+Type54=1
+Type55=1
+Type56=1
+Type57=1
+Type58=1
+Type59=1
+Type60=1
+Type61=1
+Type62=1
+Type63=1
+Type64=1
+Type65=1
+Type66=1
+Type67=1
+Type68=1
+Type69=1
+Type70=1
+Type71=1
+Type72=1
+Type73=1
+Type74=1
+Type75=1
+Type76=1
+Type77=1
+Type78=1
+Type79=1
+Type80=1
+Type81=1
+Type82=1
+Type83=1
+Type84=1
+Type85=1
+Type86=1
+Type87=1
+Type88=1
+Type89=1
+Type90=1
+Type91=1
+Type92=1
+Type93=1
+Type94=1
+Type95=1
+Type96=1
+Type97=1
+Type98=1
+Type99=1
+Type100=1
+Type101=1
+Type102=1
+Type103=1
+Type104=1
+Type105=1
+Type106=1
+Type107=1
+Type108=1
+Type109=1
+Type110=1
+Type111=1
+Type112=1
+Type113=1
+Type114=1
+Type115=1
+Type116=1
+Type117=1
+Type118=1
+Type119=1
+
+[Difference Levels]
+Type1=1
+Type2=1
+Type3=1
+Type4=1
+Type5=1
+Type6=1
+Type7=1
+Type8=1
+Type9=1
+Type10=1
+Type11=1
+Type12=1
+Type13=1
+Type14=1
+Type15=1
+Type16=1
+Type17=1
+Type18=1
+Type19=1
+Type20=1
+Type21=1
+Type22=1
+Type23=1
+Type24=1
+Type25=1
+Type26=1
+Type27=1
+Type28=1
+Type29=1
+Type30=1
+Type31=1
+Type32=1
+Type33=1
+Type34=1
+Type35=1
+Type36=1
+Type37=1
+Type38=1
+Type39=1
+Type40=1
+Type41=1
+Type42=1
+Type43=1
+Type44=1
+Type45=1
+Type46=1
+Type47=1
+Type48=1
+Type49=1
+Type50=1
+Type51=1
+Type52=1
+Type53=1
+Type54=1
+Type55=1
+Type56=1
+Type57=1
+Type58=1
+Type59=1
+Type60=1
+Type61=1
+Type62=1
+Type63=1
+Type64=1
+Type65=1
+Type66=1
+Type67=1
+Type68=1
+
+[Electrical Rules Check]
+Type1=1
+Type2=1
+Type3=2
+Type4=1
+Type5=2
+Type6=2
+Type7=0
+Type8=1
+Type9=1
+Type10=1
+Type11=2
+Type12=2
+Type13=2
+Type14=1
+Type15=1
+Type16=1
+Type17=1
+Type18=1
+Type19=1
+Type20=0
+Type21=0
+Type22=0
+Type23=0
+Type24=1
+Type25=2
+Type26=0
+Type27=2
+Type28=1
+Type29=1
+Type30=1
+Type31=1
+Type32=2
+Type33=0
+Type34=2
+Type35=1
+Type36=2
+Type37=1
+Type38=2
+Type39=2
+Type40=2
+Type41=0
+Type42=2
+Type43=1
+Type44=0
+Type45=0
+Type46=0
+Type47=0
+Type48=0
+Type49=0
+Type50=2
+Type51=0
+Type52=0
+Type53=1
+Type54=1
+Type55=1
+Type56=2
+Type57=1
+Type58=1
+Type59=2
+Type60=0
+Type61=0
+Type62=0
+Type63=0
+Type64=0
+Type65=2
+Type66=3
+Type67=2
+Type68=2
+Type69=0
+Type70=2
+Type71=2
+Type72=2
+Type73=2
+Type74=1
+Type75=2
+Type76=1
+Type77=1
+Type78=1
+Type79=1
+Type80=2
+Type81=3
+Type82=3
+Type83=3
+Type84=3
+Type85=3
+Type86=2
+Type87=2
+Type88=2
+Type89=1
+Type90=1
+Type91=3
+Type92=3
+Type93=2
+Type94=2
+Type95=2
+Type96=2
+Type97=2
+Type98=0
+Type99=1
+Type100=2
+Type101=0
+Type102=2
+Type103=2
+Type104=1
+Type105=2
+Type106=2
+Type107=2
+Type108=2
+Type109=1
+Type110=1
+Type111=1
+Type112=1
+Type113=1
+Type114=2
+Type115=2
+Type116=2
+Type117=3
+Type118=3
+Type119=3
+MultiChannelAlternate=2
+AlternateItemFail=3
+Type122=2
+Type123=1
+Type124=1
+Type125=1
+Type126=1
+
+[ERC Connection Matrix]
+L1=NNNNNNNNNNNWNNNWW
+L2=NNWNNNNWWWNWNWNWN
+L3=NWEENEEEENEWNEEWN
+L4=NNENNNWEENNWNENWN
+L5=NNNNNNNNNNNNNNNNN
+L6=NNENNNNEENNWNENWN
+L7=NNEWNNWEENNWNENWN
+L8=NWEENEENEEENNEENN
+L9=NWEENEEEENEWNEEWW
+L10=NWNNNNNENNEWNNEWN
+L11=NNENNNNEEENWNENWN
+L12=WWWWNWWNWWWNWWWNN
+L13=NNNNNNNNNNNWNNNWW
+L14=NWEENEEEENEWNEEWW
+L15=NNENNNNEEENWNENWW
+L16=WWWWNWWNWWWNWWWNW
+L17=WNNNNNNNWNNNWWWWN
+
+[Annotate]
+SortOrder=3
+SortLocation=0
+ReplaceSubparts=0
+MatchParameter1=Comment
+MatchStrictly1=1
+MatchParameter2=Library Reference
+MatchStrictly2=1
+PhysicalNamingFormat=$Component_$RoomName
+GlobalIndexSortOrder=3
+GlobalIndexSortLocation=0
+
+[PrjClassGen]
+CompClassManualEnabled=0
+CompClassManualRoomEnabled=0
+NetClassAutoBusEnabled=1
+NetClassAutoCompEnabled=0
+NetClassAutoNamedHarnessEnabled=0
+NetClassManualEnabled=1
+NetClassSeparateForBusSections=0
+
+[LibraryUpdateOptions]
+SelectedOnly=0
+UpdateVariants=1
+UpdateToLatestRevision=1
+PartTypes=0
+ComponentLibIdentifierKind0=Library Name And Type
+ComponentLibraryIdentifier0=My_Database_Lib.DbLib/0603 Capacitors$
+ComponentDesignItemID0=CC0603KRX7R7BB105
+ComponentSymbolReference0=Cap_nonpolarized
+ComponentUpdate0=0
+ComponentIsDeviceSheet0=0
+ComponentLibIdentifierKind1=Library Name And Type
+ComponentLibraryIdentifier1=My_Database_Lib.DbLib/0603 Capacitors$
+ComponentDesignItemID1=CC0603KRX7R9BB104
+ComponentSymbolReference1=Cap_nonpolarized
+ComponentUpdate1=0
+ComponentIsDeviceSheet1=0
+ComponentLibIdentifierKind2=Library Name And Type
+ComponentLibraryIdentifier2=My_Database_Lib.DbLib/0603 Resistors$
+ComponentDesignItemID2=RC0603FR-070RL
+ComponentSymbolReference2=Resistor_1/8W
+ComponentUpdate2=0
+ComponentIsDeviceSheet2=0
+ComponentLibIdentifierKind3=Library Name And Type
+ComponentLibraryIdentifier3=My_Database_Lib.DbLib/0603 Resistors$
+ComponentDesignItemID3=RC0603FR-0710KL
+ComponentSymbolReference3=Resistor_1/8W
+ComponentUpdate3=0
+ComponentIsDeviceSheet3=0
+ComponentLibIdentifierKind4=Library Name And Type
+ComponentLibraryIdentifier4=My_Database_Lib.DbLib/0603 Resistors$
+ComponentDesignItemID4=RC0603FR-07330RL
+ComponentSymbolReference4=Resistor_1/8W
+ComponentUpdate4=0
+ComponentIsDeviceSheet4=0
+ComponentLibIdentifierKind5=Library Name And Type
+ComponentLibraryIdentifier5=My_Database_Lib.DbLib/Chip Resistors Generic$
+ComponentDesignItemID5=R2512X0.6mm_Generic
+ComponentSymbolReference5=Resistor_1W
+ComponentUpdate5=0
+ComponentIsDeviceSheet5=0
+ComponentLibIdentifierKind6=Library Name And Type
+ComponentLibraryIdentifier6=My_Database_Lib.DbLib/Connectors$
+ComponentDesignItemID6=1733570
+ComponentSymbolReference6=2P_Single_row
+ComponentUpdate6=0
+ComponentIsDeviceSheet6=0
+ComponentLibIdentifierKind7=Library Name And Type
+ComponentLibraryIdentifier7=My_Database_Lib.DbLib/Connectors$
+ComponentDesignItemID7=61300511021
+ComponentSymbolReference7=5P_Single_row
+ComponentUpdate7=0
+ComponentIsDeviceSheet7=0
+ComponentLibIdentifierKind8=Library Name And Type
+ComponentLibraryIdentifier8=My_Database_Lib.DbLib/Connectors$
+ComponentDesignItemID8=85050-0000
+ComponentSymbolReference8=DIN41612_32pos_Q/2
+ComponentUpdate8=0
+ComponentIsDeviceSheet8=0
+ComponentLibIdentifierKind9=Library Name And Type
+ComponentLibraryIdentifier9=My_Database_Lib.DbLib/LDO Regulators$
+ComponentDesignItemID9=TPS73233DBVR
+ComponentSymbolReference9=TPS73233DBVR
+ComponentUpdate9=0
+ComponentIsDeviceSheet9=0
+ComponentLibIdentifierKind10=Library Name And Type
+ComponentLibraryIdentifier10=My_Database_Lib.DbLib/LED$
+ComponentDesignItemID10=LED0603green
+ComponentSymbolReference10=LED_green
+ComponentUpdate10=0
+ComponentIsDeviceSheet10=0
+ComponentLibIdentifierKind11=Library Name And Type
+ComponentLibraryIdentifier11=My_Database_Lib.DbLib/LED$
+ComponentDesignItemID11=LED0603red
+ComponentSymbolReference11=LED_red
+ComponentUpdate11=0
+ComponentIsDeviceSheet11=0
+ComponentLibIdentifierKind12=Library Name And Type
+ComponentLibraryIdentifier12=My_Database_Lib.DbLib/MCU$
+ComponentDesignItemID12=STM32G070KBT6
+ComponentSymbolReference12=STM32G070KBT6
+ComponentUpdate12=0
+ComponentIsDeviceSheet12=0
+ComponentLibIdentifierKind13=Library Name And Type
+ComponentLibraryIdentifier13=My_Database_Lib.DbLib/SSR$
+ComponentDesignItemID13=VOR1142B4
+ComponentSymbolReference13=Solid State Relay
+ComponentUpdate13=0
+ComponentIsDeviceSheet13=0
+ComponentLibIdentifierKind14=Library Name And Type
+ComponentLibraryIdentifier14=My_Database_Lib.DbLib/Test Points$
+ComponentDesignItemID14=TP_ROUND_20_10
+ComponentSymbolReference14=Test point
+ComponentUpdate14=1
+ComponentIsDeviceSheet14=0
+FullReplace=1
+UpdateDesignatorLock=1
+UpdatePartIDLock=1
+PreserveParameterLocations=1
+PreserveParameterVisibility=1
+DoGraphics=1
+DoParameters=1
+DoModels=1
+AddParameters=0
+RemoveParameters=0
+AddModels=1
+RemoveModels=1
+UpdateCurrentModels=1
+ParameterName0=Accuracy
+ParameterUpdate0=1
+ParameterName1=Accuracy(%)
+ParameterUpdate1=1
+ParameterName2=Ambient Temperature Range High
+ParameterUpdate2=1
+ParameterName3=Ambient Temperature Range Low
+ParameterUpdate3=1
+ParameterName4=Automotive
+ParameterUpdate4=1
+ParameterName5=Capacitance
+ParameterUpdate5=1
+ParameterName6=Category
+ParameterUpdate6=1
+ParameterName7=Code_JEDEC
+ParameterUpdate7=1
+ParameterName8=Color
+ParameterUpdate8=1
+ParameterName9=Comment
+ParameterUpdate9=1
+ParameterName10=Component Kind
+ParameterUpdate10=1
+ParameterName11=ComponentLink1Description
+ParameterUpdate11=1
+ParameterName12=ComponentLink1URL
+ParameterUpdate12=1
+ParameterName13=ComponentLink2Description
+ParameterUpdate13=1
+ParameterName14=ComponentLink2URL
+ParameterUpdate14=1
+ParameterName15=ComponentLink3Description
+ParameterUpdate15=1
+ParameterName16=ComponentLink3URL
+ParameterUpdate16=1
+ParameterName17=Core
+ParameterUpdate17=1
+ParameterName18=Core Architecture
+ParameterUpdate18=1
+ParameterName19=Current
+ParameterUpdate19=1
+ParameterName20=Data Bus Width
+ParameterUpdate20=1
+ParameterName21=DatasheetVersion
+ParameterUpdate21=1
+ParameterName22=Description
+ParameterUpdate22=1
+ParameterName23=Desctiption
+ParameterUpdate23=1
+ParameterName24=Device Class L1
+ParameterUpdate24=1
+ParameterName25=Device Class L2
+ParameterUpdate25=1
+ParameterName26=Device Class L3
+ParameterUpdate26=1
+ParameterName27=Digikey Description
+ParameterUpdate27=1
+ParameterName28=Eco-Plan
+ParameterUpdate28=1
+ParameterName29=Fixed Output Options(V)
+ParameterUpdate29=1
+ParameterName30=FLASH Size (Prog) (kB)
+ParameterUpdate30=1
+ParameterName31=Frequency
+ParameterUpdate31=1
+ParameterName32=Height
+ParameterUpdate32=1
+ParameterName33=I/Os (High Current)
+ParameterUpdate33=1
+ParameterName34=Interface
+ParameterUpdate34=1
+ParameterName35=Internal RAM Size (kB)
+ParameterUpdate35=1
+ParameterName36=Iout(Max)(A)
+ParameterUpdate36=1
+ParameterName37=Ipc Land Pattern Name
+ParameterUpdate37=1
+ParameterName38=Iq(Typ)(mA)
+ParameterUpdate38=1
+ParameterName39=Lead Free
+ParameterUpdate39=1
+ParameterName40=Library Reference
+ParameterUpdate40=1
+ParameterName41=Manufacturer
+ParameterUpdate41=1
+ParameterName42=Manufacturer Part Number
+ParameterUpdate42=1
+ParameterName43=Material
+ParameterUpdate43=1
+ParameterName44=Max Junction Temp
+ParameterUpdate44=1
+ParameterName45=Max Supply Voltage
+ParameterUpdate45=1
+ParameterName46=Memory Size
+ParameterUpdate46=1
+ParameterName47=Memory Type
+ParameterUpdate47=1
+ParameterName48=Min Supply Voltage
+ParameterUpdate48=1
+ParameterName49=Mounting Technology
+ParameterUpdate49=1
+ParameterName50=Mouser Description
+ParameterUpdate50=1
+ParameterName51=Nominal Supply Current
+ParameterUpdate51=1
+ParameterName52=Number Of A/D Converters
+ParameterUpdate52=1
+ParameterName53=Number Of Adc Channels
+ParameterUpdate53=1
+ParameterName54=Number Of Cores
+ParameterUpdate54=1
+ParameterName55=Number Of I/Os
+ParameterUpdate55=1
+ParameterName56=Number Of I2C Channels
+ParameterUpdate56=1
+ParameterName57=Number Of Spi Channels
+ParameterUpdate57=1
+ParameterName58=Number Of Timers/Counters
+ParameterUpdate58=1
+ParameterName59=Number Of Uart Channels
+ParameterUpdate59=1
+ParameterName60=Octopart
+ParameterUpdate60=1
+ParameterName61=On-State Resistance
+ParameterUpdate61=1
+ParameterName62=Operating Frequency(F) (Processor speed) (MHz)
+ParameterUpdate62=1
+ParameterName63=Package
+ParameterUpdate63=1
+ParameterName64=Package (imperial)
+ParameterUpdate64=1
+ParameterName65=Package (metric)
+ParameterUpdate65=1
+ParameterName66=PackageDescription
+ParameterUpdate66=1
+ParameterName67=PackageReference
+ParameterUpdate67=1
+ParameterName68=PackageVersion
+ParameterUpdate68=1
+ParameterName69=Part Number
+ParameterUpdate69=1
+ParameterName70=PartNumber
+ParameterUpdate70=1
+ParameterName71=Pin Count
+ParameterUpdate71=1
+ParameterName72=Power
+ParameterUpdate72=1
+ParameterName73=Ram Size
+ParameterUpdate73=1
+ParameterName74=Resistance
+ParameterUpdate74=1
+ParameterName75=RoHS
+ParameterUpdate75=1
+ParameterName76=Standoff Height
+ParameterUpdate76=1
+ParameterName77=SubFamily
+ParameterUpdate77=1
+ParameterName78=Supply Voltage(Vcc) min (V)
+ParameterUpdate78=1
+ParameterName79=Temperature
+ParameterUpdate79=1
+ParameterName80=Temperature Range High
+ParameterUpdate80=1
+ParameterName81=Temperature Range Low
+ParameterUpdate81=1
+ParameterName82=Vdo(Typ)(mV)
+ParameterUpdate82=1
+ParameterName83=Vin(Max)(V)
+ParameterUpdate83=1
+ParameterName84=Vin(Min)(V)
+ParameterUpdate84=1
+ParameterName85=Voltage
+ParameterUpdate85=1
+ParameterName86=Vout Adj(Max)(V)
+ParameterUpdate86=1
+ParameterName87=Vout Adj(Min)(V)
+ParameterUpdate87=1
+ModelTypeGroup0=PCBLIB
+ModelTypeUpdate0=1
+ModelType0=PCBLIB
+ModelName0=CAPC1608X08L
+ModelUpdate0=1
+ModelType1=PCBLIB
+ModelName1=CAPC1608X08M
+ModelUpdate1=1
+ModelType2=PCBLIB
+ModelName2=CAPC1608X08N
+ModelUpdate2=1
+ModelType3=PCBLIB
+ModelName3=DBV0005A_L
+ModelUpdate3=1
+ModelType4=PCBLIB
+ModelName4=DBV0005A_M
+ModelUpdate4=1
+ModelType5=PCBLIB
+ModelName5=DBV0005A_N
+ModelUpdate5=1
+ModelType6=PCBLIB
+ModelName6=FP-LQFP32-5V-IPC_A
+ModelUpdate6=1
+ModelType7=PCBLIB
+ModelName7=FP-LQFP32-5V-IPC_B
+ModelUpdate7=1
+ModelType8=PCBLIB
+ModelName8=FP-LQFP32-5V-IPC_C
+ModelUpdate8=1
+ModelType9=PCBLIB
+ModelName9=FP-LQFP32-5V-MFG
+ModelUpdate9=1
+ModelType10=PCBLIB
+ModelName10=LED0603green
+ModelUpdate10=1
+ModelType11=PCBLIB
+ModelName11=LED0603red
+ModelUpdate11=1
+ModelType12=PCBLIB
+ModelName12=LQFP80P900X900X160-32L
+ModelUpdate12=1
+ModelType13=PCBLIB
+ModelName13=LQFP80P900X900X160-32M
+ModelUpdate13=1
+ModelType14=PCBLIB
+ModelName14=LQFP80P900X900X160-32N
+ModelUpdate14=1
+ModelType15=PCBLIB
+ModelName15=Molex 85050-0000
+ModelUpdate15=1
+ModelType16=PCBLIB
+ModelName16=Phoenix Contact 1733570
+ModelUpdate16=1
+ModelType17=PCBLIB
+ModelName17=RESC1608X06L
+ModelUpdate17=1
+ModelType18=PCBLIB
+ModelName18=RESC1608X06M
+ModelUpdate18=1
+ModelType19=PCBLIB
+ModelName19=RESC1608X06N
+ModelUpdate19=1
+ModelType20=PCBLIB
+ModelName20=RESC6431X06L
+ModelUpdate20=1
+ModelType21=PCBLIB
+ModelName21=RESC6431X06M
+ModelUpdate21=1
+ModelType22=PCBLIB
+ModelName22=RESC6431X06N
+ModelUpdate22=1
+ModelType23=PCBLIB
+ModelName23=SOP254P1000X380-4N
+ModelUpdate23=1
+ModelType24=PCBLIB
+ModelName24=SOT23-5-095_L
+ModelUpdate24=1
+ModelType25=PCBLIB
+ModelName25=SOT23-5-095_M
+ModelUpdate25=1
+ModelType26=PCBLIB
+ModelName26=SOT23-5-095_N
+ModelUpdate26=1
+ModelType27=PCBLIB
+ModelName27=TP_ROUND_20_10
+ModelUpdate27=1
+ModelType28=PCBLIB
+ModelName28=WE 61300511021
+ModelUpdate28=1
+
+[DatabaseUpdateOptions]
+SelectedOnly=0
+UpdateVariants=1
+UpdateToLatestRevision=1
+PartTypes=0
+ComponentLibIdentifierKind0=Library Name And Type
+ComponentLibraryIdentifier0=My_Database_Lib.DbLib/0603 Capacitors$
+ComponentDesignItemID0=CC0603KRX7R9BB104
+ComponentSymbolReference0=Cap_nonpolarized
+ComponentUpdate0=0
+ComponentIsDeviceSheet0=0
+ComponentLibIdentifierKind1=Library Name And Type
+ComponentLibraryIdentifier1=My_Database_Lib.DbLib/0603 Resistors$
+ComponentDesignItemID1=RC0603FR-0710KL
+ComponentSymbolReference1=Resistor_1/8W
+ComponentUpdate1=0
+ComponentIsDeviceSheet1=0
+ComponentLibIdentifierKind2=Library Name And Type
+ComponentLibraryIdentifier2=My_Database_Lib.DbLib/0603 Resistors$
+ComponentDesignItemID2=RC0603FR-07330RL
+ComponentSymbolReference2=Resistor_1/8W
+ComponentUpdate2=0
+ComponentIsDeviceSheet2=0
+ComponentLibIdentifierKind3=Library Name And Type
+ComponentLibraryIdentifier3=My_Database_Lib.DbLib/Connectors$
+ComponentDesignItemID3=85050-0000
+ComponentSymbolReference3=DIN41612_32pos_Q/2
+ComponentUpdate3=0
+ComponentIsDeviceSheet3=0
+ComponentLibIdentifierKind4=Library Name And Type
+ComponentLibraryIdentifier4=My_Database_Lib.DbLib/LED$
+ComponentDesignItemID4=LED0603green
+ComponentSymbolReference4=LED_green
+ComponentUpdate4=0
+ComponentIsDeviceSheet4=0
+ComponentLibIdentifierKind5=Library Name And Type
+ComponentLibraryIdentifier5=My_Database_Lib.DbLib/MCU$
+ComponentDesignItemID5=STM32G070KBT6
+ComponentSymbolReference5=STM32G070KBT6
+ComponentUpdate5=0
+ComponentIsDeviceSheet5=0
+ComponentLibIdentifierKind6=Library Name And Type
+ComponentLibraryIdentifier6=My_Database_Lib.DbLib/Test Points$
+ComponentDesignItemID6=TP_ROUND_20_10
+ComponentSymbolReference6=Test point
+ComponentUpdate6=0
+ComponentIsDeviceSheet6=0
+
+[Comparison Options]
+ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
+ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
+ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
+ComparisonOptions3=Kind=Rule|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
+ComparisonOptions4=Kind=Differential Pair|MinPercent=50|MinMatch=1|ShowMatch=0|UseName=0|InclAllRules=0
+ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
+
+[SmartPDF]
+PageOptions=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+

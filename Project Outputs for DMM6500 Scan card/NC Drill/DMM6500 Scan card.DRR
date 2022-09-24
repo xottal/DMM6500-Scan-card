@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: DMM6500 Scan card.PcbDoc   24.09.2022  22:43:27
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : DMM6500 Scan card.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             26        PTH        9.75inch (247.56mm)
+T2      20mil (0.5mm)                                             Round             146       PTH        42.02inch (1067.28mm)
+T3      32mil (0.8mm)                                             Round             32        PTH        3.10inch (78.74mm)
+T4      39mil (1.001mm)                                           Round             8         PTH        3.33inch (84.68mm)
+T5      43mil (1.1mm)                                             Round             5         PTH        0.40inch (10.16mm)
+T6      51mil (1.3mm)                                             Round             44        PTH        13.62inch (346.04mm)
+T7      110mil (2.799mm)                                          Round             2         PTH        1.90inch (48.26mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              263
+
+Total Processing Time (hh:mm:ss) : 00:00:01

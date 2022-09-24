@@ -1,0 +1,202 @@
+*************************************************************
+FileName = DMM6500 Scan card.GBR
+AutoAperture = True
+*************************************************************
+Generating : Keep-Out Layer
+      File : DMM6500 Scan card.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D11
+    D55
+    D56
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : DMM6500 Scan card.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D11
+    D12
+    D41
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : DMM6500 Scan card.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D53
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : DMM6500 Scan card.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D25
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D54
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : DMM6500 Scan card.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D19
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : DMM6500 Scan card.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : DMM6500 Scan card.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : DMM6500 Scan card.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D15
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : DMM6500 Scan card.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+*************************************************************
+
